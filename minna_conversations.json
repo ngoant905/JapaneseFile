@@ -1,0 +1,3702 @@
+[
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-1-hoi-thoai.html",
+    "lesson_number": 1,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "はじめまして",
+        "vi": "Rất vui được làm quen"
+      },
+      "image": "/images/minnamoi/bai1/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/1.mp3",
+      "dialogue": [
+        {
+          "speaker": "佐藤",
+          "jp_html": "おはよう　ございます。",
+          "vi": "Chào anh!"
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "おはよう　ございます。",
+          "vi": "Chào chị!"
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>さん、こちらは　マイク・ミラーさんです。",
+          "vi": "Chị Sato, đây là anh Mike Miller."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めまして。",
+          "vi": "Rất vui được làm quen với chị."
+        },
+        {
+          "speaker": null,
+          "jp_html": "マイク・ミラーです。",
+          "vi": "Tôi là Mike Miller."
+        },
+        {
+          "speaker": null,
+          "jp_html": "アメリカから　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ました。",
+          "vi": "Tôi đến từ Mỹ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どうぞ　よろしく。",
+          "vi": "Rất mong sẽ nhận được sự giúp đỡ của chị."
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "<ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>けい<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>です。",
+          "vi": "Tôi là Sato Keiko."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どうぞ　よろしく。",
+          "vi": "Rất vui được làm quen với anh."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-2-hoi-thoai.html",
+    "lesson_number": 2,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "これから　お<ruby>世話<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>に　なります。",
+        "vi": "Từ giờ mong được anh giúp đỡ."
+      },
+      "image": "/images/minnamoi/bai2/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/5.mp3",
+      "dialogue": [
+        {
+          "speaker": "山田一郎",
+          "jp_html": "はい。どなたですか。",
+          "vi": "Vâng. Ai đấy ạ?"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "408の　サントスです。",
+          "vi": "Tôi là Santos của phòng 408."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "こんにちは。サントスです。",
+          "vi": "Xin chào anh. Tôi tên là Santos."
+        },
+        {
+          "speaker": null,
+          "jp_html": "これから　お<ruby>世話<rp>(</rp><rt>せわ</rt><rp>)</rp></ruby>に　なります。",
+          "vi": "Từ giờ mong được anh giúp đỡ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どうぞ　よろしく　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Xin nhờ anh đấy."
+        },
+        {
+          "speaker": "山田一郎",
+          "jp_html": "こちらこそ　よろしく　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Tôi cũng vậy."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "あのう、これ、コーヒーです。どうぞ。",
+          "vi": "À, cái này, là cà phê. Xin tặng ông."
+        },
+        {
+          "speaker": "山田一郎",
+          "jp_html": "どうも　ありがとう　ございます。",
+          "vi": "Xin cảm ơn anh nhiều"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-3-hoi-thoai.html",
+    "lesson_number": 3,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "これを　ください",
+        "vi": "Cho tôi lấy chai này"
+      },
+      "image": "/images/minnamoi/bai3/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/9.mp3",
+      "dialogue": [
+        {
+          "speaker": "店員",
+          "jp_html": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A: いらっしゃいませ。",
+          "vi": "Kính chào quý khách."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "すみません。ワインうりばは　どこですか。",
+          "vi": "Xin lỗi. Quầy bán rượu nằm ở chỗ nào vậy?"
+        },
+        {
+          "speaker": "店員",
+          "jp_html": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>A: ちか１かい でございます。",
+          "vi": "Nằm ở tầng hầm thứ nhất."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "どうも",
+          "vi": "Cám ơn!"
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "すみません。その　ワインを　みせて　ください。",
+          "vi": "Xin lỗi. Cho tôi xem chai rượu vang đó."
+        },
+        {
+          "speaker": "店員",
+          "jp_html": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: はい、どうぞ。",
+          "vi": "Vâng. Xin mời chị."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "これは　どこの　ワインですか。",
+          "vi": "Cái này là rượu vang xuất xứ từ đâu vậy?"
+        },
+        {
+          "speaker": "店員",
+          "jp_html": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: <ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>のです。",
+          "vi": "Rượu vang Nhật ạ."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "いくらですか。",
+          "vi": "Giá bao nhiêu vậy?"
+        },
+        {
+          "speaker": "店員",
+          "jp_html": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>B: 2,500えんです。",
+          "vi": "2,500 yên."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "じゃ、これを　ください。",
+          "vi": "Vậy cho tôi lấy chai này."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-4-hoi-thoai.html",
+    "lesson_number": 4,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "そちらは　<ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか",
+        "vi": "Chỗ đó mở cửa đến mấy giờ vậy?"
+      },
+      "image": "/images/minnamoi/bai4/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/12.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "すみません。「あすか」の　<ruby>電話番号<rp>(</rp><rt>でんわばんごう</rt><rp>)</rp></ruby>は　<ruby>何番<rp>(</rp><rt>なんばん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Xin lỗi. Số điện thoại Asuka là số mấy vậy?"
+        },
+        {
+          "speaker": "<ruby>佐藤<rp>(</rp><rt>さとう</rt><rp>)</rp></ruby>",
+          "jp_html": "「あすか」ですか。５２７５の　２７２５です。",
+          "vi": "Asuka à. Là 5275-2725."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "どうも　ありがとう　ございます。",
+          "vi": "Cám ơn nhiều."
+        },
+        {
+          "speaker": "<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "「あすか」です。",
+          "vi": "Asuka xin nghe."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "すみません。そちらは　<ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>までですか。",
+          "vi": "Xin lỗi. Chỗ chị mở cửa đến mấy giờ vậy?"
+        },
+        {
+          "speaker": "<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "10じまでです。",
+          "vi": "Đến 10 giờ."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みは　<ruby>何曜日<rp>(</rp><rt>なんようび</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Ngày nghỉ là thứ mấy vậy ạ?"
+        },
+        {
+          "speaker": "<ruby>店<rp>(</rp><rt>みせ</rt><rp>)</rp></ruby>の<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>です。",
+          "vi": "Là chủ nhật."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですか。　どうも。",
+          "vi": "Là vậy à. Cám ơn."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-5-hoi-thoai.html",
+    "lesson_number": 5,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "この<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>は　<ruby>甲子園<rp>(</rp><rt>こうしえん</rt><rp>)</rp></ruby>へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか",
+        "vi": "Xe điện này có đi Koshien không?"
+      },
+      "image": "/images/minnamoi/bai5/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/17.mp3",
+      "dialogue": [
+        {
+          "speaker": "サントス",
+          "jp_html": "すみません。<ruby>甲子園<rp>(</rp><rt>こうしえん</rt><rp>)</rp></ruby>まで　いくらですか。",
+          "vi": "Xin lỗi. Đến Koshien là bao nhiêu tiền vậy ạ?"
+        },
+        {
+          "speaker": "<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "350<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+          "vi": "350 yên."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "350<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ですね。ありがとう　ございました。 ",
+          "vi": "350 yên ạ. Cám ơn chị nhiều."
+        },
+        {
+          "speaker": "<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "どう　いたしまして。",
+          "vi": "Không có chi"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "すみません。<ruby>甲子園<rp>(</rp><rt>こうしえん</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby><ruby>番線<rp>(</rp><rt>ばんせん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Xin lỗi. Koshien là tuyến số mấy vậy ạ?"
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": "5<ruby>番線<rp>(</rp><rt>ばんせん</rt><rp>)</rp></ruby>です。",
+          "vi": "Tuyến số 5."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "どうも。",
+          "vi": "Cảm ơn anh."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "あのう、この<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>は　<ruby>甲子園<rp>(</rp><rt>こうしえん</rt><rp>)</rp></ruby>へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Xin lỗi, chuyến xe điện này có đi tới Koushien không vậy?"
+        },
+        {
+          "speaker": "<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "いいえ、<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>の　「<ruby>普通<rp>(</rp><rt>ふつう</rt><rp>)</rp></ruby>」ですよ。",
+          "vi": "Không phải, là chuyến “thông thường” kế tiếp cơ."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "そうですか。どうも。",
+          "vi": "Vậy à. Cảm ơn anh."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-6-hoi-thoai.html",
+    "lesson_number": 6,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "いっしょに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか",
+        "vi": "Cùng đi không nào?"
+      },
+      "image": "/images/minnamoi/bai6/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/21.mp3",
+      "dialogue": [
+        {
+          "speaker": "佐藤",
+          "jp_html": "ミラーさん。",
+          "vi": "Anh Miller này."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Có chuyện gì vậy?"
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "あした　<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>と　お<ruby>花見<rp>(</rp><rt>はなみ</rt><rp>)</rp></ruby>を　します。",
+          "vi": "Ngày mai tôi sẽ đi ngắm hoa anh đào với bạn."
+        },
+        {
+          "speaker": null,
+          "jp_html": "ミラーさんも　いっしょに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。",
+          "vi": "Anh Miller cũng cùng đi nhé."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "いいですね。どこへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Hay thật đấy. Sẽ đi đâu vậy?"
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "<ruby>大阪城<rp>(</rp><rt>おおさかじょう</rt><rp>)</rp></ruby>です。",
+          "vi": "Lâu đài Osaka."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>何時<rp>(</rp><rt>なんじ</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Đi lúc mấy giờ vậy?"
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "10<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>に　<ruby>大阪駅<rp>(</rp><rt>おおさかえき</rt><rp>)</rp></ruby>で　<ruby>会<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>いましょう。",
+          "vi": "Chúng ta hãy gặp nhau ở ga Osaka lúc 10 giờ nhé."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "わかりました。",
+          "vi": "Vâng được rồi."
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "じゃ、また　あした。",
+          "vi": "Vậy thì mai gặp nhé."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-7-hoi-thoai.html",
+    "lesson_number": 7,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "いらっしゃい",
+        "vi": "Mừng anh ghé chơi."
+      },
+      "image": "/images/minnamoi/bai7/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/24.mp3",
+      "dialogue": [
+        {
+          "speaker": "山田一郎",
+          "jp_html": "はい。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "ジョゼ・サントス",
+          "jp_html": "サントスです。",
+          "vi": "Tôi là Santos."
+        },
+        {
+          "speaker": "山田一郎",
+          "jp_html": "いらっしゃい。",
+          "vi": "Xin chào anh."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どうぞ　お<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がり　ください。",
+          "vi": "Xin mời anh vào."
+        },
+        {
+          "speaker": "ジョゼ・サントス",
+          "jp_html": "<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します。",
+          "vi": "Xin phép anh nhé."
+        },
+        {
+          "speaker": "山田友子",
+          "jp_html": "コーヒーは　いかがですか。",
+          "vi": "Chị dùng cà phê không ạ?"
+        },
+        {
+          "speaker": "マリア・サントス",
+          "jp_html": "ありがとう　ございます。",
+          "vi": "Cảm ơn chị."
+        },
+        {
+          "speaker": "山田友子",
+          "jp_html": "どうぞ。",
+          "vi": "Mời chị dùng."
+        },
+        {
+          "speaker": "マリア・サントス",
+          "jp_html": "いただきます。",
+          "vi": "Tôi xin phép dùng."
+        },
+        {
+          "speaker": null,
+          "jp_html": "この　スプーン、すてきですね。",
+          "vi": "Cái muỗng này tuyệt thật nhỉ."
+        },
+        {
+          "speaker": "山田友子",
+          "jp_html": "ええ。<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>に　もらいました。",
+          "vi": "Vâng. Tôi đã nhận được từ đồng nghiệp trong công ty đấy ạ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "メキシコの　お<ruby>土産<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>です。",
+          "vi": "Là quà lưu niệm Mexico."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-8-hoi-thoai.html",
+    "lesson_number": 8,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "そろそろ　<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します",
+        "vi": "Đã đến lúc tôi phải về rồi"
+      },
+      "image": "/images/minnamoi/bai8/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/28.mp3",
+      "dialogue": [
+        {
+          "speaker": "山田一郎",
+          "jp_html": "マリアさん、　<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の　<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>は　どうですか。",
+          "vi": "Chị Maria, cuốc sống ở Nhật như thế nào vậy?"
+        },
+        {
+          "speaker": "マリア・サントス",
+          "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　とても　<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しいです。",
+          "vi": "Mỗi ngày đều rất vui vẻ."
+        },
+        {
+          "speaker": "山田一郎",
+          "jp_html": "そうですか。サントスさん、お<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>は　どうですか。",
+          "vi": "Vậy à. Anh Santos này, công việc của anh thì thế nào rồi?"
+        },
+        {
+          "speaker": "ジョゼ・サントス",
+          "jp_html": "そうですね。<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しいですが、おもしろいです。",
+          "vi": "Vâng. Công việc bận nhưng cũng rất thú vị."
+        },
+        {
+          "speaker": "山田友子",
+          "jp_html": "コーヒー、もう　<ruby>一杯<rp>(</rp><rt>いっぱい</rt><rp>)</rp></ruby>　いかがですか。",
+          "vi": "Chị dùng thêm tách cà phê nữa nhé?"
+        },
+        {
+          "speaker": "マリア・サントス",
+          "jp_html": "いいえ、けっこうです。",
+          "vi": "Dạ không, đủ rồi chị."
+        },
+        {
+          "speaker": "ジョゼ・サントス",
+          "jp_html": "あ、もう　6<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ですね。そろそろ　<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します。",
+          "vi": "A, đã 6 giờ rồi. Đã đến lúc tôi phải về thôi."
+        },
+        {
+          "speaker": "山田一郎",
+          "jp_html": "そうですか。",
+          "vi": "Vậy à."
+        },
+        {
+          "speaker": "マリア・サントス",
+          "jp_html": "きょうは　どうも　ありがとう　ございました。",
+          "vi": "Hôm nay cảm ơn anh chị nhiều."
+        },
+        {
+          "speaker": "山田友子",
+          "jp_html": "いいえ。また　いらっしゃって　ください。",
+          "vi": "Không đâu. Khi nào anh chị lại tới nữa nhé."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-9-hoi-thoai.html",
+    "lesson_number": 9,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>残念<rp>(</rp><rt>ざんねん</rt><rp>)</rp></ruby>ですが",
+        "vi": "Tiếc quá nhỉ"
+      },
+      "image": "/images/minnamoi/bai9/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/32.mp3",
+      "dialogue": [
+        {
+          "speaker": "木村",
+          "jp_html": "はい。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>木村<rp>(</rp><rt>きむら</rt><rp>)</rp></ruby>さんですか、ミラーです。",
+          "vi": "Anh Kimura à, Miller đây."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "ああ、ミラーさん、こんばんは。お<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>ですか。",
+          "vi": "A, anh Miller, chào buổi tối. Anh khỏe chứ?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ、<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>です。",
+          "vi": "Vâng, tôi khỏe."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あのう、<ruby>木村<rp>(</rp><rt>きむら</rt><rp>)</rp></ruby>さん、クラシックの　コンサート、いっしょに　いかがですか。",
+          "vi": "À này, cô Kimura, buổi hòa nhạc cổ điển, cô cùng đi chứ?"
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "いいですね。いつですか。",
+          "vi": "Hay đấy. Chừng nào vậy?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>来週<rp>(</rp><rt>らいしゅう</rt><rp>)</rp></ruby>の　<ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>の　<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>です。",
+          "vi": "Là tối ngày thứ sáu tuần sau."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "<ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Thứ sáu sao?"
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>金曜日<rp>(</rp><rt>きんようび</rt><rp>)</rp></ruby>の　<ruby>晩<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>は　ちょっと･･････。",
+          "vi": "Tối thứ sáu thì hơi…."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "だめですか。",
+          "vi": "Không được sao?"
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "ええ、<ruby>残念<rp>(</rp><rt>ざんねん</rt><rp>)</rp></ruby>ですが、<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>と　<ruby>約束<rp>(</rp><rt>やくそく</rt><rp>)</rp></ruby>が　ありますから、･･････。",
+          "vi": "Vâng, thật là đáng tiếc vì tôi có hẹn với bạn nên,…"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですか。",
+          "vi": "Vậy à."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "ええ。また　<ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Vâng. Xin để lần sau vậy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-10-hoi-thoai.html",
+    "lesson_number": 10,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "ナンプラーは　ありますか",
+        "vi": "Có nước mắm Thái không?"
+      },
+      "image": "/images/minnamoi/bai10/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/35.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "すみません。アジアストアは　どこですか。",
+          "vi": "Xin lỗi. Cho hỏi siêu thị Asian nằm ở đâu vậy?"
+        },
+        {
+          "speaker": "<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "アジアストアですか。",
+          "vi": "Siêu thị Asian à."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あそこに　<ruby>白<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>い　ビルが　ありますね。",
+          "vi": "Ở chỗ kia có tòa nhà màu trắng đấy."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あの　ビルの　<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>です。",
+          "vi": "Nằm trong tòa nhà kia đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですか。どうも　すみません。",
+          "vi": "Vậy à. Xin cảm ơn chị."
+        },
+        {
+          "speaker": "<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>",
+          "jp_html": "いいえ。",
+          "vi": "Không có chi."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "あのう、ナンプラーは　ありますか。",
+          "vi": "Xin hỏi, có tương ớt không vậy?"
+        },
+        {
+          "speaker": "<ruby>店員<rp>(</rp><rt>てんいん</rt><rp>)</rp></ruby>",
+          "jp_html": "はい 。",
+          "vi": "Có đấy."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あちらに　タイ<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>の　コーナーが　あります。ナンプラーは　いちばん　<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>です。",
+          "vi": "Ở đằng kia có quầy đồ ăn Thái Lan. Nước mắm thái nằm ở phía dưới cùng."
+        },
+        {
+          "speaker": null,
+          "jp_html": "チリソースは　<ruby>下<rp>(</rp><rt>した</rt><rp>)</rp></ruby>から　2<ruby>段<rp>(</rp><rt>だん</rt><rp>)</rp></ruby><ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>です。",
+          "vi": "Tương ớt nằm ở tầng 2 tính từ dưới lên."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "わかりました。どうも。",
+          "vi": "Tôi biết rồi. Cảm ơn chị."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-11-hoi-thoai.html",
+    "lesson_number": 11,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "これ、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします",
+        "vi": "Cái này, nhờ anh chuyển giúp"
+      },
+      "image": "/images/minnamoi/bai11/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/39.mp3",
+      "dialogue": [
+        {
+          "speaker": "管理人",
+          "jp_html": "いい　<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>ですね。お<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>かけですか。",
+          "vi": "Thời tiết tốt quá nhỉ. Cậu đi ra ngoài à?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "ええ。ちょっと　<ruby>郵便局<rp>(</rp><rt>ゆうびんきょく</rt><rp>)</rp></ruby>まで。",
+          "vi": "Vâng. Tôi đến bưu điện một chút."
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "そうですか。<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ってらっしゃい。",
+          "vi": "Vậy à. Thế cậu đi nhé."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　きます。",
+          "vi": "Vâng, tôi đi đây."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "これ、オーストラリアまで　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Cái này, nhờ anh chuyển phát đến Úc."
+        },
+        {
+          "speaker": "郵便局員",
+          "jp_html": "はい。<ruby>船便<rp>(</rp><rt>ふなびん</rt><rp>)</rp></ruby>ですか、<ruby>航空便<rp>(</rp><rt>こうくうびん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Chuyển đường biển hay chuyển bằng hàng không ạ?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "<ruby>空港便<rp>(</rp><rt>こうくうびん</rt><rp>)</rp></ruby>は　いくらですか。",
+          "vi": "Đường hàng không thì mất bao nhiêu tiền?"
+        },
+        {
+          "speaker": "郵便局員",
+          "jp_html": "7,600<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+          "vi": "7,600 yên."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "<ruby>船便<rp>(</rp><rt>ふなびん</rt><rp>)</rp></ruby>は？",
+          "vi": "Còn đường biển thì sao?"
+        },
+        {
+          "speaker": "郵便局員",
+          "jp_html": "3,450<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+          "vi": "3,450 yên."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "どのくらい　かかりますか。",
+          "vi": "Mất bao lâu?"
+        },
+        {
+          "speaker": "郵便局員",
+          "jp_html": "<ruby>空港便<rp>(</rp><rt>こうくうびん</rt><rp>)</rp></ruby>で　<ruby>7日<rp>(</rp><rt>なのか</rt><rp>)</rp></ruby>で、<ruby>船便<rp>(</rp><rt>ふなびん</rt><rp>)</rp></ruby>で　2か<ruby>月<rp>(</rp><rt>げつ</rt><rp>)</rp></ruby>ぐらいです。",
+          "vi": "Đường hàng không thì mất 7 ngày, đường biển thì khoảng 2 tháng ạ."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "じゃ、<ruby>船便<rp>(</rp><rt>ふなびん</rt><rp>)</rp></ruby>で　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Vậy, nhờ anh gửi đường biển giùm."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-12-hoi-thoai.html",
+    "lesson_number": 12,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>祇園祭<rp>(</rp><rt>ぎおんまつり</rt><rp>)</rp></ruby>は　どうでしたか",
+        "vi": "Lễ hội Gion thế nào?"
+      },
+      "image": "/images/minnamoi/bai12/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/43.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "ただいま。",
+          "vi": "Tôi về rồi đây."
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "お<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りなさい。",
+          "vi": "Cậu về rồi à."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "これ、<ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>の　お<ruby>土産<rp>(</rp><rt>みやげ</rt><rp>)</rp></ruby>です。",
+          "vi": "Cái này là quà lưu niệm của Kyoto."
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "どうも　すみません。",
+          "vi": "Cảm ơn cậu."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>祇園祭<rp>(</rp><rt>ぎおんまつり</rt><rp>)</rp></ruby>は　どうでしたか。",
+          "vi": "Lễ hội Gion ra sao?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "おもしろかったです。",
+          "vi": "Thú vị lắm."
+        },
+        {
+          "speaker": null,
+          "jp_html": "とても　にぎやかでした。",
+          "vi": "Rất là náo nhiệt."
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "<ruby>祇園祭<rp>(</rp><rt>ぎおんまつり</rt><rp>)</rp></ruby>は　<ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>の　<ruby>祭<rp>(</rp><rt>まつ</rt><rp>)</rp></ruby>りで　いちばん　<ruby>有名<rp>(</rp><rt>ゆうめい</rt><rp>)</rp></ruby>ですからね。",
+          "vi": "Vì lễ hội Gion là lễ hội nổi tiếng nhất của Kyoto mà."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですか。",
+          "vi": "Vậy à."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を　たくさん　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りました。 これです。",
+          "vi": "Tôi đã chụp rất nhiều hình. Cái này ạ."
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "わあ、すごい　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Wa, nhiều người quá nhỉ."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ。ちょっと　<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れました。",
+          "vi": "Vâng. Mà hơi mệt một chút."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-13-hoi-thoai.html",
+    "lesson_number": 13,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>々に　お<ruby>願<rp>(</rp><rt>ねがい</rt><rp>)</rp></ruby>いします",
+        "vi": "Nhờ tính riêng giùm"
+      },
+      "image": "/images/minnamoi/bai13/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/46.mp3",
+      "dialogue": [
+        {
+          "speaker": "山田",
+          "jp_html": "もう　12<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ですよ。<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ごはんを　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。",
+          "vi": "Đã 12 giờ rồi đấy. Đi ăn trưa không?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ。",
+          "vi": "Ừ."
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "どこへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Đi đâu đây?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですね。きょうは　<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby><ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>が　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたいですね。",
+          "vi": "Ử nhỉ. Hôm nay tôi muốn ăn món Nhật."
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "じゃ、「つるや」へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょう。",
+          "vi": "Vậy thì hãy đến “Tsuruya” thôi."
+        },
+        {
+          "speaker": "店の人",
+          "jp_html": "ご<ruby>注文<rp>(</rp><rt>ちゅうもん</rt><rp>)</rp></ruby>は？",
+          "vi": "Các anh dùng gì?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "わたしは　<ruby>天<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>ぷら<ruby>定食<rp>(</rp><rt>ていしょく</rt><rp>)</rp></ruby>。",
+          "vi": "Tôi thì cơm suất Tempura."
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "わたしは　<ruby>牛<rp>(</rp><rt>ぎゅう</rt><rp>)</rp></ruby>どん。",
+          "vi": "Tôi thì cơm thịt bò."
+        },
+        {
+          "speaker": "店の人",
+          "jp_html": "<ruby>天<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>ぷら<ruby>定食<rp>(</rp><rt>ていしょく</rt><rp>)</rp></ruby>と　<ruby>牛<rp>(</rp><rt>ぎゅう</rt><rp>)</rp></ruby>どんですね。<ruby>少<rp>(</rp><rt>すくな</rt><rp>)</rp></ruby>々　お<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ち　ください。",
+          "vi": "Cơm suất tempura và cơm thịt bò đúng không ạ. Xin quý khách đợi trong chốc lát."
+        },
+        {
+          "speaker": "店の人",
+          "jp_html": "1,680<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>で　ございます。",
+          "vi": "Tất cả là 1,680 yên."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "すみません。<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>々に　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Xin lỗi, nhờ chị tính riêng giùm."
+        },
+        {
+          "speaker": "店の人",
+          "jp_html": "はい、<ruby>天<rp>(</rp><rt>てん</rt><rp>)</rp></ruby>ぷら<ruby>定食<rp>(</rp><rt>ていしょく</rt><rp>)</rp></ruby>は　980<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>で、<ruby>牛<rp>(</rp><rt>ぎゅう</rt><rp>)</rp></ruby>どんは　700<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+          "vi": "Vâng, cơm suất Tempura là 980 yên và cơm thịt bò là 700 yên."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-14-hoi-thoai.html",
+    "lesson_number": 14,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "みどり<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>まで　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします",
+        "vi": "Cho tôi đến thành phố Midori"
+      },
+      "image": "/images/minnamoi/bai14/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/49.mp3",
+      "dialogue": [
+        {
+          "speaker": "カリナ",
+          "jp_html": "<ruby>梅田<rp>(</rp><rt>うめだ</rt><rp>)</rp></ruby>まで　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Cho tôi đến Umeda"
+        },
+        {
+          "speaker": "<ruby>運転手<rp>(</rp><rt>うんてんしゅ</rt><rp>)</rp></ruby>",
+          "jp_html": "はい。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "すみません。　あの　<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>を　<ruby>右<rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby>へ　<ruby>曲<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>がって　ください。",
+          "vi": "Xin lỗi. Xin hãy quẹo phải ngay đèn tín hiệu kia."
+        },
+        {
+          "speaker": "<ruby>運転手<rp>(</rp><rt>うんてんしゅ</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>右<rp>(</rp><rt>みぎ</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Bên phải đúng không."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "ええ。",
+          "vi": "Đúng vậy."
+        },
+        {
+          "speaker": "<ruby>運転手<rp>(</rp><rt>うんてんしゅ</rt><rp>)</rp></ruby>",
+          "jp_html": "まっすぐですか。",
+          "vi": "Đi thẳng à?"
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "ええ、まっすぐ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　ください。",
+          "vi": "Vâng, anh hãy đi thẳng."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "あの　<ruby>花屋<rp>(</rp><rt>はなや</rt><rp>)</rp></ruby>の　<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>で　<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めて　ください。",
+          "vi": "Anh hãy dừng ngay trước tiệm hoa kia."
+        },
+        {
+          "speaker": "<ruby>運転手<rp>(</rp><rt>うんてんしゅ</rt><rp>)</rp></ruby>",
+          "jp_html": "はい。 1,800<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>です。",
+          "vi": "Vâng. Hết 1,800 yên."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "これで　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Gửi anh tiền đây."
+        },
+        {
+          "speaker": "<ruby>運転手<rp>(</rp><rt>うんてんしゅ</rt><rp>)</rp></ruby>",
+          "jp_html": "3,200<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>の　お<ruby>釣<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>りです。ありがとう　ございました。",
+          "vi": "3,200 yên tiền thừa đây. Xin cảm ơn."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-15-hoi-thoai.html",
+    "lesson_number": 15,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "ご<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>は？",
+        "vi": "Gia đình của anh như thế nào?"
+      },
+      "image": "/images/minnamoi/bai15/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/53.mp3",
+      "dialogue": [
+        {
+          "speaker": "木村",
+          "jp_html": "いい　<ruby>映画<rp>(</rp><rt>えいが</rt><rp>)</rp></ruby>でしたね。",
+          "vi": "Bộ phim hay nhỉ."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ。わたしは　<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>を　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>い<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>しました。",
+          "vi": "Vâng. Tôi lại nhớ đến gia đình mình."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "そうですか。ミラーさんの　ご<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>は？",
+          "vi": "Vậy à. Gia đình của anh Miller như thế nào?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>両親<rp>(</rp><rt>りょうしん</rt><rp>)</rp></ruby>と　<ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>が　<ruby>1人<rp>(</rp><rt>ひとり</rt><rp>)</rp></ruby>　います。",
+          "vi": "Tôi có bố mẹ và 1 người chị."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "どちらに　いらっしゃいますか 。",
+          "vi": "Vậy họ sống ở đâu?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>両親<rp>(</rp><rt>りょうしん</rt><rp>)</rp></ruby>は　ニューヨークの　<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>くに　<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>んで　います。",
+          "vi": "Bố mẹ tôi thì sống ở gần New York."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>姉<rp>(</rp><rt>あね</rt><rp>)</rp></ruby>は　ロンドンで　<ruby>働<rp>(</rp><rt>はたら</rt><rp>)</rp></ruby>いています。",
+          "vi": "Chị tôi thì làm việc ở Luân Đôn."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>木村<rp>(</rp><rt>きむら</rt><rp>)</rp></ruby>さんの　ご<ruby>家族<rp>(</rp><rt>かぞく</rt><rp>)</rp></ruby>は？",
+          "vi": "Còn gia đình cô Kimura thì sao?"
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "3<ruby>人<rp>(</rp><rt>にん</rt><rp>)</rp></ruby>です。<ruby>父<rp>(</rp><rt>ちち</rt><rp>)</rp></ruby>は　<ruby>銀行員<rp>(</rp><rt>ぎんこういん</rt><rp>)</rp></ruby>です。",
+          "vi": "Nhà tôi có 3 người. Bố tôi là nhân viên ngân hàng."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>は　<ruby>高校<rp>(</rp><rt>こうこう</rt><rp>)</rp></ruby>で　<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　います。",
+          "vi": "Mẹ tôi thì đang dạy tiếng Anh ở trường cấp 3."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-16-hoi-thoai.html",
+    "lesson_number": 16,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　ください",
+        "vi": "Xin hãy chỉ cho tôi cách sử dụng"
+      },
+      "image": "/images/minnamoi/bai16/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/56.mp3",
+      "dialogue": [
+        {
+          "speaker": "マリア",
+          "jp_html": "すみませんが、ちょっと　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>い<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>を　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　ください。",
+          "vi": "Xin lỗi, xin hãy chỉ cho tôi cách sử dụng."
+        },
+        {
+          "speaker": "銀行員",
+          "jp_html": "お<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>き<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>しですか。",
+          "vi": "Chị rút tiền à?"
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "そうです。",
+          "vi": "Đúng vậy."
+        },
+        {
+          "speaker": "銀行員",
+          "jp_html": "じゃ、まず　ここを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して　ください。",
+          "vi": "Vậy thì trước hết hãy nhấn chỗ này."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "はい。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "銀行員",
+          "jp_html": "<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>に　キャッシュカードを　ここに　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて、<ruby>暗証番号<rp>(</rp><rt>あんしょうばんごう</rt><rp>)</rp></ruby>を　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して　ください。",
+          "vi": "Tiếp theo, chị bỏ thẻ ngân hàng vào đây rồi ấn mật khẩu."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "はい、<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>しました。",
+          "vi": "Vâng, tôi ấn rồi."
+        },
+        {
+          "speaker": "銀行員",
+          "jp_html": "じゃ、<ruby>金額<rp>(</rp><rt>きんがく</rt><rp>)</rp></ruby>を　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して　ください。",
+          "vi": "Tiếp theo chị hãy nhập số tiền vào."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "5<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ですが、5･･････。",
+          "vi": "5 vạn yên, 5…."
+        },
+        {
+          "speaker": "銀行員",
+          "jp_html": "この　「<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby>」「<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>」を　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>します。",
+          "vi": "Ấn nút “Vạn” “Yên” này."
+        },
+        {
+          "speaker": null,
+          "jp_html": "それから　この　[<ruby>確認<rp>(</rp><rt>かくにん</rt><rp>)</rp></ruby>]ボタンを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して　ください。",
+          "vi": "Và rồi hãy nhấn nút xác nhận này."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "はい、どうも　ありがとう　ございました。",
+          "vi": "Vâng, xin cảm ơn anh nhiều."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-17-hoi-thoai.html",
+    "lesson_number": 17,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "どう　しましたか",
+        "vi": "Anh bị sao vậy?"
+      },
+      "image": "/images/minnamoi/bai17/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/60.mp3",
+      "dialogue": [
+        {
+          "speaker": "医者",
+          "jp_html": "どう　しましたか。",
+          "vi": "Anh bị sao vậy?"
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "きのうから　のどが　<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>くて、<ruby>熱<rp>(</rp><rt>ねつ</rt><rp>)</rp></ruby>も　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　あります。",
+          "vi": "Từ hôm qua tôi đã bị đau cổ và có sốt một chút."
+        },
+        {
+          "speaker": "医者",
+          "jp_html": "そうですか。　ちょっと　<ruby>口<rp>(</rp><rt>くち</rt><rp>)</rp></ruby>を　<ruby>開<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>けて　ください。",
+          "vi": "Vậy à. Anh hãy mở miệng ra một chút."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "かぜですね。２、３<ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>　ゆっくり　<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>んで　ください。",
+          "vi": "Anh bị cảm rồi. Anh hãy nghỉ ngơi thong thả đi vài ngày."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "あのう、あしたから　<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>へ　<ruby>出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp></ruby>しなければ　なりません。",
+          "vi": "Thưa bác sĩ, từ ngày mai tôi phải đi công tác ở Tokyo rồi."
+        },
+        {
+          "speaker": "医者",
+          "jp_html": "じゃ、きょうは　<ruby>薬<rp>(</rp><rt>くすり</rt><rp>)</rp></ruby>を　<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>んで、　<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く　<ruby>寝<rp>(</rp><rt>ね</rt><rp>)</rp></ruby>て　ください。",
+          "vi": "Vậy thì, hôm nay anh hãy uống thuốc và hãy đi ngủ sớm đi."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "はい。",
+          "vi": "Vâng ạ."
+        },
+        {
+          "speaker": "医者",
+          "jp_html": "それから　<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby>は　おふろに　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>らないで　くださいね。",
+          "vi": "Thêm nữa là tối hôm nay đừng tắm bồn nhé."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "はい。わかりました。",
+          "vi": "Vâng. Tôi biết rồi."
+        },
+        {
+          "speaker": "医者",
+          "jp_html": "じゃ、お<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>に。",
+          "vi": "Vậy, chúc anh mau khỏe."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "どうも　ありがとう　ございました。",
+          "vi": "Xin cảm ơn bác sĩ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-18-hoi-thoai.html",
+    "lesson_number": 18,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>趣味<rp>(</rp><rt>しゅみ</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか",
+        "vi": "Sở thích của anh là gì?"
+      },
+      "image": "/images/minnamoi/bai18/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/63.mp3",
+      "dialogue": [
+        {
+          "speaker": "山田",
+          "jp_html": "サントスさんの　<ruby>趣味<rp>(</rp><rt>しゅみ</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Sở thích của anh Santos là gì vậy?"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>です。",
+          "vi": "Là chụp ảnh."
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "どんな　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りますか。",
+          "vi": "Anh chụp những ảnh như thế nào?"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "<ruby>動物<rp>(</rp><rt>どうぶつ</rt><rp>)</rp></ruby>の　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>です。<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に　<ruby>馬<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>が　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+          "vi": "Ảnh động vật. Và tôi đặc biệt thích ngựa."
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "へえ、それは　おもしろいですね。",
+          "vi": "Ồ, thật là thú vị."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>へ　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>てから、<ruby>馬<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>の　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>を　<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りましたか。",
+          "vi": "Từ sau khi đến Nhật rồi thì anh có chụp ảnh ngựa không?"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "いいえ。",
+          "vi": "Không có."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>では　なかなか　<ruby>馬<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>を　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>る　ことが　できません。",
+          "vi": "Ở Nhật ít khi có thể thấy được ngựa mà."
+        },
+        {
+          "speaker": "山田",
+          "jp_html": "<ruby>北海道<rp>(</rp><rt>ほっかいどう</rt><rp>)</rp></ruby>に　<ruby>馬<rp>(</rp><rt>うま</rt><rp>)</rp></ruby>が　たくさん　ありますよ。",
+          "vi": "Ở Hokkaido có nhiều ngựa lắm đấy."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "ほんとうですか。",
+          "vi": "Thật vậy sao."
+        },
+        {
+          "speaker": null,
+          "jp_html": "じゃ、<ruby>夏休<rp>(</rp><rt>なつやす</rt><rp>)</rp></ruby>みに　ぜひ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいです。",
+          "vi": "Vậy thì nhất định tôi muốn đến đó vào kỳ nghỉ hè."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-19-hoi-thoai.html",
+    "lesson_number": 19,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "ダイエットは　あしたから　します",
+        "vi": "Từ mai tôi sẽ bắt đầu chế độ giảm cân"
+      },
+      "image": "/images/minnamoi/bai19/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/66.mp3",
+      "dialogue": [
+        {
+          "speaker": "皆",
+          "jp_html": "<ruby>乾杯<rp>(</rp><rt>かんぱい</rt><rp>)</rp></ruby>。",
+          "vi": "Cạn ly."
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "マリアさん、あまり　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べませんね。",
+          "vi": "Maria này, cô ăn ít nhỉ."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "ええ。きのうから　ダイエットを　して　います。",
+          "vi": "Vâng. Tôi bắt đầu chế độ giảm cân từ hôm qua."
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "そうですか。わたしも　ダイエットを　した　ことが　あります。",
+          "vi": "Vậy sao. Tôi cũng đã thực hiện chế độ giảm cân rồi."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "どんな　ダイエットですか。",
+          "vi": "Chế độ giảm cân như thế nào ạ?"
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　りんごだけ　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べたり、<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>を　たくさん　のんだり　しました。",
+          "vi": "Mỗi ngày nào là chỉ ăn táo, nào là uống thật nhiều nước,.."
+        },
+        {
+          "speaker": "松本部長",
+          "jp_html": "でも、<ruby>無理<rp>(</rp><rt>むり</rt><rp>)</rp></ruby>な　ダイエットは　<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>に　よくないですよ。",
+          "vi": "Nhưng mà chế độ giảm cân quá mức sẽ không tốt cho cơ thể đâu."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "そうですね。",
+          "vi": "Đúng vậy nhỉ."
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "マリアさん、このアイスクリーム、おいしいですよ。",
+          "vi": "Cô Maria này, kem này ngon lắm đấy."
+        },
+        {
+          "speaker": "マリア",
+          "jp_html": "そうですか。",
+          "vi": "Vậy sao,"
+        },
+        {
+          "speaker": null,
+          "jp_html": "･････。ダイエットは　また　あしたから　します。",
+          "vi": "….Chế độ ăn kiêng thì mai lại bắt đầu lại vậy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-20-hoi-thoai.html",
+    "lesson_number": 20,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "いっしょに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かない？",
+        "vi": "Đi cùng không?"
+      },
+      "image": "/images/minnamoi/bai20/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/69.mp3",
+      "dialogue": [
+        {
+          "speaker": "小林",
+          "jp_html": "<ruby>夏休<rp>(</rp><rt>なつやす</rt><rp>)</rp></ruby>みは　<ruby>国<rp>(</rp><rt>くに</rt><rp>)</rp></ruby>へ　<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>る？",
+          "vi": "Kỳ nghỉ hè cậu sẽ về nước à?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "ううん。<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りたいけど、･････。",
+          "vi": "Không. Mình muốn về nhưng mà…"
+        },
+        {
+          "speaker": "小林",
+          "jp_html": "そう。",
+          "vi": "Thế à."
+        },
+        {
+          "speaker": null,
+          "jp_html": "タワポン<ruby>君<rp>(</rp><rt>くん</rt><rp>)</rp></ruby>、<ruby>富士山<rp>(</rp><rt>ふじさん</rt><rp>)</rp></ruby>に　<ruby>登<rp>(</rp><rt>のぼ</rt><rp>)</rp></ruby>った　こと　ある？",
+          "vi": "Mà Thawapong này, cậu đã từng leo núi Phú Sĩ chưa?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "ううん、ない。",
+          "vi": "Chưa."
+        },
+        {
+          "speaker": "小林",
+          "jp_html": "じゃ、よかったら、いっしょに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かない？",
+          "vi": "Vậy nếu được, tụi mình đi không?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "うん。いつごろ？",
+          "vi": "Được chứ. Khoảng chừng nào?"
+        },
+        {
+          "speaker": "小林",
+          "jp_html": "8<ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>の　<ruby>初<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めごろは　どう？",
+          "vi": "Khoảng đầu tháng 8 thì sao?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "いいよ。",
+          "vi": "Được đấy."
+        },
+        {
+          "speaker": "小林",
+          "jp_html": "じゃ、いろいろ　<ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べて、また　<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>するよ。",
+          "vi": "Vậy tôi sẽ tìm hiểu nhiều thứ rồi gọi cho cậu sau."
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "ありがとう。<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ってるよ。",
+          "vi": "Cảm ơn cậu. Tôi chờ đấy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-21-hoi-thoai.html",
+    "lesson_number": 21,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "わたしも　そう　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います",
+        "vi": "Tôi cũng nghĩ như vậy"
+      },
+      "image": "/images/minnamoi/bai21/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/72.mp3",
+      "dialogue": [
+        {
+          "speaker": "松本",
+          "jp_html": "あ、サントスさん、<ruby>久<rp>(</rp><rt>ひさ</rt><rp>)</rp></ruby>しぶりですね。",
+          "vi": "A, anh Santos. Lâu quá không gặp."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "あ、<ruby>松本<rp>(</rp><rt>まつもと</rt><rp>)</rp></ruby>さん、お<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>ですか。",
+          "vi": "A, anh Matsumoto, anh khỏe chứ?"
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "ええ。ちょっと　ビールでも　<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みませんか。",
+          "vi": "Vâng tôi khỏe. Đi uống chút bia không?"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "いいですね。",
+          "vi": "Được đấy nhỉ."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "<ruby>今晩<rp>(</rp><rt>こんばん</rt><rp>)</rp></ruby>　10<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>から　<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>と　ブラジルの　サッカーの　<ruby>試合<rp>(</rp><rt>しあい</rt><rp>)</rp></ruby>が　ありますね。",
+          "vi": "Tối nay từ 10 giờ có trận bóng đá giữa đội Nhật và Brazil nhỉ."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "ああ、そうですね。ぜひ　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>ないと･････。",
+          "vi": "A, đúng thế nhỉ. Tôi nhất định sẽ xem…"
+        },
+        {
+          "speaker": null,
+          "jp_html": "サントスさんは　どちらが　<ruby>勝<rp>(</rp><rt>か</rt><rp>)</rp></ruby>つと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますか。",
+          "vi": "Mà anh Santos nghĩ là đội nào sẽ thắng?"
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "もちろん　ブラジルですよ。",
+          "vi": "Đương nhiên là Brazil rồi."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "そうですね。でも、<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>　<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>も　<ruby>強<rp>(</rp><rt>つよ</rt><rp>)</rp></ruby>く　なりましたよ。",
+          "vi": "Ừ nhỉ. Nhưng mà dạo này đội Nhật cũng mạnh lên rồi đấy."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "ええ、わたしも　そう　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますが、･････。",
+          "vi": "Vâng, tôi cũng nghĩ thế nhưng mà…."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あ、もう　<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>らないと、･････。",
+          "vi": "Ái chà, đã tới lúc phải về rồi,…."
+        },
+        {
+          "speaker": "松本",
+          "jp_html": "ええ、<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りましょう。",
+          "vi": "Vâng, về thôi."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-22-hoi-thoai.html",
+    "lesson_number": 22,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "どんな　<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>お<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しですか",
+        "vi": "Anh chị tìm phòng như thế nào?"
+      },
+      "image": "/images/minnamoi/bai22/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/75.mp3",
+      "dialogue": [
+        {
+          "speaker": "不動産屋",
+          "jp_html": "どんな　<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>を　お<ruby>探<rp>(</rp><rt>さが</rt><rp>)</rp></ruby>しですか。",
+          "vi": "Anh tìm phòng như thế nào?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "そうですね。<ruby>家賃<rp>(</rp><rt>やちん</rt><rp>)</rp></ruby>は　8<ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ぐらいで、　<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>から　<ruby>遠<rp>(</rp><rt>とお</rt><rp>)</rp></ruby>くない　所が　いいですね。",
+          "vi": "Tiền nhà tầm 80000Yen và không xa nhà ga thì được."
+        },
+        {
+          "speaker": "不動産屋",
+          "jp_html": "では、こちらは　いかがですか。<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>から　10分で、<ruby>家賃<rp>(</rp><rt>やちん</rt><rp>)</rp></ruby>は　83,000円です。",
+          "vi": "Vậy chỗ này có được không? Từ nhà ga cách 10 phút và tiền nhà 83000Yen."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "ダイニングキチンと　<ruby>和室<rp>(</rp><rt>わしつ</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Bếp kèm phòng ăn và phòng kiểu Nhật nhỉ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "すみません。ここは　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Xin lỗi chỗ này là gì vậy?"
+        },
+        {
+          "speaker": "不動産屋",
+          "jp_html": "<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>し<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れです。<ruby>布団<rp>(</rp><rt>ふとん</rt><rp>)</rp></ruby>を　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れる　<ruby>所<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>ですよ。",
+          "vi": "Là ngăn tủ. Là nơi để chăn mền đấy ạ."
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "そうですか。",
+          "vi": "Vậy à."
+        },
+        {
+          "speaker": null,
+          "jp_html": "この　<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>、きょう　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>る　ことが　できますか。",
+          "vi": "Căn phòng này, ngày hôm nay có thể xem được không?"
+        },
+        {
+          "speaker": "不動産屋",
+          "jp_html": "ええ。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>から　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょうか。",
+          "vi": "Được chứ. Chúng ta đi từ bây giờ luôn ạ?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "ええ、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Vâng, nhờ anh đấy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-23-hoi-thoai.html",
+    "lesson_number": 23,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "どうやって　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか",
+        "vi": "Đi như thế nào đây"
+      },
+      "image": "/images/minnamoi/bai23/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/78.mp3",
+      "dialogue": [
+        {
+          "speaker": "図書館の人",
+          "jp_html": "はい、みどり<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>です。",
+          "vi": "Vâng, thư viện Midori xin nghe."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "あのう、そちらまで　どうやって　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Cho hỏi đi như thế nào đến đó vậy?"
+        },
+        {
+          "speaker": "図書館の人",
+          "jp_html": "<ruby>本田<rp>(</rp><rt>ほんでん</rt><rp>)</rp></ruby><ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>から　12<ruby>番<rp>(</rp><rt>ばん</rt><rp>)</rp></ruby>の　バスに　<ruby>乗<rp>(</rp><rt>の</rt><rp>)</rp></ruby>って、<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby><ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>で <ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りて　ください。3つ<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>です。",
+          "vi": "Từ nhà ga Honda, hãy lên xe buýt số 12 và đi đến trước thư viện. Là điểm đỗ thứ 3 đấy."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "3つ<ruby>目<rp>(</rp><rt>め</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Điểm thứ 3 đúng không ạ."
+        },
+        {
+          "speaker": "図書館の人",
+          "jp_html": "ええ。<ruby>降<rp>(</rp><rt>お</rt><rp>)</rp></ruby>りると、<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>に　<ruby>公園<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby>が　あります。",
+          "vi": "Đúng vậy. Khi xuống xe, phía trước sẽ có công viên."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>図書館<rp>(</rp><rt>としょかん</rt><rp>)</rp></ruby>は　<ruby>公園<rp>(</rp><rt>こうえん</rt><rp>)</rp></ruby>の　<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>の　<ruby>白<rp>(</rp><rt>しろ</rt><rp>)</rp></ruby>い　<ruby>建物<rp>(</rp><rt>たてもの</rt><rp>)</rp></ruby>です。",
+          "vi": "Thư viện là tòa nhà màu trắng nằm bên trong công viên."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "わかりました。",
+          "vi": "Tôi hiểu rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "それから　<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を　<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りる　とき、<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か　<ruby>要<rp>(</rp><rt>い</rt><rp>)</rp></ruby>ります。",
+          "vi": "Và thêm nữa là khi mượn sách thì có cần gì không ạ?"
+        },
+        {
+          "speaker": "図書館の人",
+          "jp_html": "お<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>と　<ruby>住所<rp>(</rp><rt>じゅうしょ</rt><rp>)</rp></ruby>が　わかる　<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　ください。",
+          "vi": "Chị hãy cầm theo thứ có thể biết được tên và địa chỉ."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "はい。どうも　ありがとう　ございました。",
+          "vi": "Vâng. Xin cảm ơn chị nhiều."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-24-hoi-thoai.html",
+    "lesson_number": 24,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>手伝<rp>(</rp><rt>てつだ</rt><rp>)</rp></ruby>いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょうか",
+        "vi": "Tối đến giúp nhé."
+      },
+      "image": "/images/minnamoi/bai24/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/82.mp3",
+      "dialogue": [
+        {
+          "speaker": "カリナ",
+          "jp_html": "ワンさん、<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>　<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>っ<ruby>越<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>しですね。",
+          "vi": "Anh Wang này, ngày mai anh chuyển nhà nhỉ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>手伝<rp>(</rp><rt>てつだ</rt><rp>)</rp></ruby>いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょうか。",
+          "vi": "Tôi đến giúp nhé?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "ありがとう　ございます。",
+          "vi": "Cảm ơn chị."
+        },
+        {
+          "speaker": null,
+          "jp_html": "じゃ、すみませんが、９<ruby>時<rp>(</rp><rt>とき</rt><rp>)</rp></ruby>ごろ　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Vậy thì, xin lỗi, nhờ chị mai 9 giờ nhé."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "ほかに　だれが　<ruby>手伝<rp>(</rp><rt>てつだ</rt><rp>)</rp></ruby>いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Ngoài ra còn ai tới giúp không?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "<ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby>さんと　ミラーさんが　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　くれます。",
+          "vi": "Anh Yamada và anh Miller sẽ đến."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>は？",
+          "vi": "Còn xe hơi thì sao?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "<ruby>山田<rp>(</rp><rt>やまだ</rt><rp>)</rp></ruby>さんに　<ruby>貸<rp>(</rp><rt>か</rt><rp>)</rp></ruby>して　もらいます。",
+          "vi": "Anh Yamada sẽ cho tôi mượn."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "<ruby>昼<rp>(</rp><rt>ひる</rt><rp>)</rp></ruby>ごはんは　どう　しますか。",
+          "vi": "Còn bữa trưa thì sao?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "えーと･････。",
+          "vi": "Ừm…"
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "わたしが　お<ruby>弁当<rp>(</rp><rt>べんとう</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きましょうか。",
+          "vi": "Vậy tôi sẽ mang cơm hộp đến nhé?"
+        },
+        {
+          "speaker": "ワン",
+          "jp_html": "すみません。お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Xin lỗi, Xin nhờ chị vậy."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "じゃ、<ruby>日曜日<rp>(</rp><rt>にちようび</rt><rp>)</rp></ruby>に。",
+          "vi": "Vậy, hẹn chủ nhật."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-25-hoi-thoai.html",
+    "lesson_number": 25,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "いろいろ　お<ruby>世話<rt>せわ</rt></ruby>に　なりました",
+        "vi": "Mọi người đã giúp đỡ tôi rất nhiều"
+      },
+      "image": "/images/minnamoi/bai25/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu1/85.mp3",
+      "dialogue": [
+        {
+          "speaker": "木村",
+          "jp_html": "<ruby>転勤<rt>てんきん</rt></ruby>、おめでとう　ございます。",
+          "vi": "Xin chúc mừng cậu chuyển công tác."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ありがとう　ございます。",
+          "vi": "Xin cảm ơn."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "ミラーさんが　<ruby>東京<rt>とうきょう</rt></ruby>へ　<ruby>行<rt>い</rt></ruby>ったら、<ruby>寂<rt>さび</rt></ruby>しく　なりますね。",
+          "vi": "Anh Miller đi Tokyo rồi chúng tôi sẽ buồn đấy."
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "そうですね。",
+          "vi": "Ừ nhỉ."
+        },
+        {
+          "speaker": "木村",
+          "jp_html": "<ruby>東京<rt>とうきょう</rt></ruby>へ　<ruby>行<rt>い</rt></ruby>っても、<ruby>大阪<rt>おおさか</rt></ruby>の　ことを　<ruby>忘<rt>わす</rt></ruby>れないで　くださいね。",
+          "vi": "Dù đi Tokyo nhưng anh cũng đừng quên Osaka đấy nhé."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "もちろん。<ruby>皆<rt>みな</rt></ruby>さん、<ruby>暇<rt>ひま</rt></ruby>が　あったら、ぜひ　<ruby>東京<rt>とうきょう</rt></ruby>へ　<ruby>遊<rt>あそ</rt></ruby>びに <ruby>来<rt>き</rt></ruby>て　ください。",
+          "vi": "Đương nhiên rồi. Mọi người nếu có thời gian rảnh nhất định hãy đến Tokyo chơi nhé."
+        },
+        {
+          "speaker": "サントス",
+          "jp_html": "ミラーさんも　<ruby>大阪<rt>おおさか</rt></ruby>へ　<ruby>来<rt>き</rt></ruby>たら、<ruby>電話<rt>でんわ</rt></ruby>を　ください。",
+          "vi": "Anh Miller khi đến Osaka cũng hãy điện thoại nhé."
+        },
+        {
+          "speaker": null,
+          "jp_html": "いっしょに　<ruby>飲<rt>の</rt></ruby>みましょう。",
+          "vi": "Rồi cùng uống nhé."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ、ぜひ。",
+          "vi": "Vâng, nhất định rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>皆<rt>みな</rt></ruby>さん、ほんとうに　いろいろ　お<ruby>世話<rt>せわ</rt></ruby>に　なりました。",
+          "vi": "Mọi người thật sự đã giúp đỡ tôi rất nhiều."
+        },
+        {
+          "speaker": "佐藤",
+          "jp_html": "<ruby>頑張<rt>がんば</rt></ruby>って　ください。<ruby>体<rt>からだ</rt></ruby>に　<ruby>気<rt>き</rt></ruby>を　つけて。",
+          "vi": "Hãy cố gắng lên và chú ý giữ gìn sức khỏe nhé."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "はい。<ruby>皆<rt>みな</rt></ruby>さんも　どうぞ　お<ruby>元気<rt>げんき</rt></ruby>で。",
+          "vi": "Vâng. Mong các anh chị cũng luôn khỏe mạnh."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-26-hoi-thoai.html",
+    "lesson_number": 26,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "ごみは　どこに　<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>したら　いいですか",
+        "vi": "Rác thì đổ ở đâu thì được đây?"
+      },
+      "image": "/images/minnamoi/bai26/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/1.mp3",
+      "dialogue": [
+        {
+          "speaker": "管理人",
+          "jp_html": "ミラーさん、<ruby>引<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>っ<ruby>越<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>しの　<ruby>荷物<rp>(</rp><rt>にもつ</rt><rp>)</rp></ruby>は　<ruby>片付<rp>(</rp><rt>かたづ</rt><rp>)</rp></ruby>きましたか。",
+          "vi": "Anh Miller này, đồ đạc chuyển nhà đã dọn dẹp xong hết chưa?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "はい、だいたい　<ruby>片付<rp>(</rp><rt>かたづ</rt><rp>)</rp></ruby>きました。",
+          "vi": "Vâng, phần lớn đã dọn xong rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あのう、ごみを　<ruby>捨<rp>(</rp><rt>す</rt><rp>)</rp></ruby>てたいんですが、どこに<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>したら　いいですか。",
+          "vi": "Xin lỗi, tôi muốn vứt rác nhưng mà đổ rác ở đâu thì được đây?"
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "<ruby>燃<rp>(</rp><rt>も</rt><rp>)</rp></ruby>える　ごみは　<ruby>月曜日<rp>(</rp><rt>げつようび</rt><rp>)</rp></ruby>と　<ruby>木曜日<rp>(</rp><rt>もくようび</rt><rp>)</rp></ruby>の　<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>　<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>して　ください。",
+          "vi": "Rác cháy được thì hãy đổ vào sáng thứ hai và thứ năm."
+        },
+        {
+          "speaker": null,
+          "jp_html": "ごみ<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>き<ruby>場<rp>(</rp><rt>ば</rt><rp>)</rp></ruby>は　<ruby>駐車場<rp>(</rp><rt>ちゅうしゃじょう</rt><rp>)</rp></ruby>の　<ruby>横<rp>(</rp><rt>よこ</rt><rp>)</rp></ruby>です。",
+          "vi": "Chỗ đổ rác là bên cạnh bãi đổ xe ấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>瓶<rp>(</rp><rt>びん</rt><rp>)</rp></ruby>や　<ruby>缶<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>は　いつですか。",
+          "vi": "Còn bình hay lon thì chừng nào vậy?"
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>です。",
+          "vi": "Vào thứ bảy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "わかりました。それから、お<ruby>湯<rp>(</rp><rt>ゆ</rt><rp>)</rp></ruby>が　<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>ないんですが・・・。",
+          "vi": "Tôi hiểu rồi. Thêm nữa là nước nóng không chảy ra ….."
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "ガス<ruby>会社<rp>(</rp><rt>がいしゃ</rt><rp>)</rp></ruby>に　<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>したら、すぐ　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　くれますよ。",
+          "vi": "Nếu cậu liên lạc với công ty gas thì họ sẽ tới ngay đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "すみませんが、<ruby>電話番号<rp>(</rp><rt>でんわばんごう</rt><rp>)</rp></ruby>を　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　いただけませんか。",
+          "vi": "Xin lỗi có thể cho tôi số điện thoại không?"
+        },
+        {
+          "speaker": "管理人",
+          "jp_html": "ええ、いいですよ。",
+          "vi": "Ồ, được chứ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-27-hoi-thoai.html",
+    "lesson_number": 27,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "何でも　作れるんですね",
+        "vi": "Cái gì cũng có thể làm được nhỉ"
+      },
+      "image": "/images/minnamoi/bai27/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/4.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>明<rp>(</rp><rt>あか</rt><rp>)</rp></ruby>るくて、いい　<ruby>部屋<rp>(</rp><rt>へや</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Căn phòng sáng sủa và tốt thật."
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "ええ。<ruby>天気<rp>(</rp><rt>てんき</rt><rp>)</rp></ruby>が　いい　<ruby>日<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>には　<ruby>海<rp>(</rp><rt>うみ</rt><rp>)</rp></ruby>が　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>えるんです。",
+          "vi": "Vâng. Vào những ngày thời tiết tốt sẽ nhìn thấy biển đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "この　テーブルは　おもしろい　デザインですね。",
+          "vi": "Cái bàn này có thiết kế đẹp thật."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どこで　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>ったんですか。",
+          "vi": "Anh đã mua ở đâu vậy?"
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "これは　わたしが　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったんですよ。",
+          "vi": "Cái này là tôi đã tự làm đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "えっ、ほんとうですか。",
+          "vi": "Hả, thật à?"
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "ええ。<ruby>趣味<rp>(</rp><rt>しゅみ</rt><rp>)</rp></ruby>は　<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>で　<ruby>家具<rp>(</rp><rt>かぐ</rt><rp>)</rp></ruby>を　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>る　ことなんです。",
+          "vi": "Vâng. Sở thích của tôi là làm dụng cụ tại nhà."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "へえ。じゃ、あの　<ruby>本棚<rp>(</rp><rt>ほんだな</rt><rp>)</rp></ruby>も　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>ったんですか。",
+          "vi": "Ồ. Vậy cái kệ sách này chắc anh cũng tự làm hả?"
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "ええ。",
+          "vi": "Đúng vậy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "すごいですね。<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby><ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>さん、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>でも　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>れるんですね。",
+          "vi": "Anh giỏi thật. Anh Suzuki, cái gì cũng có thể làm được ấy nhỉ."
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "わたしの　<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>は　いつか　<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>で　<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>を　<ruby>建<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てる　ことなんです。",
+          "vi": "Giấc mơ của tôi là ngày nào đó sẽ tự mình xây nhà mà."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "すばらしい　<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Giấc mơ tuyệt thật đấy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-28-hoi-thoai.html",
+    "lesson_number": 28,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "出張<rp>(</rp><rt>しゅっちょう</rt><rp>)</rp>も　多<rp>(</rp><rt>おお</rt><rp>)</rp>いし、試験<rp>(</rp><rt>しけん</rt><rp>)</rp>も　あるし･･････",
+        "vi": "Vừa đi công tác nhiều, vừa có kỳ thi"
+      },
+      "image": "/images/minnamoi/bai28/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/7.mp3",
+      "dialogue": [
+        {
+          "speaker": "小川幸子",
+          "jp_html": "ミラーさん、ちょっと　お願いが　あるんですが。",
+          "vi": "Anh Miller, tôi có chuyện muốn nhờ anh một chút."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "何ですか。",
+          "vi": "Gì vậy ạ?"
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "実は　８月に　オーストラリアへ　ホームステイに　行くんです。",
+          "vi": "Thực ra là tháng 8 tôi đi Úc Homestay."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ホームステイですか。いいですね。",
+          "vi": "Homestay à. Tuyệt nhỉ."
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "ええ。それで　今　友達と　英語を　勉強して　いるんですが…",
+          "vi": "Vâng. Vì thế hiện tại tôi đang học tiếng Anh cùng với bạn bè."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "なかなか　上手に　ならないんです。",
+          "vi": "Mãi mà không giỏi lên nơi."
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "先生も　いないし、英語で　話す　チャンスも　ないし…",
+          "vi": "Cũng không có giáo viên và cũng chả có cơ hội nói tiếng Anh."
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "ミラーさん、会話の　先生に　なって　いただけませんか。",
+          "vi": "Anh Miller, có thể trở thành giáo viên hội thoại cho tôi không?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "え？　先生に？　うーん、ちょっと　仕事が…",
+          "vi": "Ủa, trở thành giào viên à? Công việc của tôi thì ..."
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "お暇な　とき、お茶でも　飲みながら…",
+          "vi": "Lúc rảnh thì cùng uống trà và ..."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "うーん、　出張も　多いし、もうすぐ　日本語の　試験も　あるし…",
+          "vi": "Vừa đi công tác nhiều vừa sắp có kỳ thi tiếng Nhật ..."
+        },
+        {
+          "speaker": "小川幸子",
+          "jp_html": "そうですか。",
+          "vi": "Vậy à."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "すみません。",
+          "vi": "Rất xin lỗi chị."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-29-hoi-thoai.html",
+    "lesson_number": 29,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　して　しまったんです",
+        "vi": "Tôi để quên đồ mất rồi"
+      },
+      "image": "/images/minnamoi/bai29/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/10.mp3",
+      "dialogue": [
+        {
+          "speaker": "イー",
+          "jp_html": "すみません。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の　<ruby>電車<rp>(</rp><rt>でんしゃ</rt><rp>)</rp></ruby>に　<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　して　しまったんですが･････。",
+          "vi": "Xin lỗi, tôi đã để quên đồ trên chuyến xe điện mới nãy mất rồi."
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>を　<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れたんですか。",
+          "vi": "Chị quên gì vậy?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "<ruby>青<rp>(</rp><rt>あお</rt><rp>)</rp></ruby>い　かばんです。このくらいの･････。",
+          "vi": "Chiếc cặp màu xanh dương. Cỡ chừng này…."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>外側<rp>(</rp><rt>そとがわ</rt><rp>)</rp></ruby>に　<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きい　ポケットが　<ruby>付<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>いて　います。",
+          "vi": "Bên ngoài có gắn cái túi lớn."
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": "どの　<ruby>辺<rp>(</rp><rt>へん</rt><rp>)</rp></ruby>に　<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きますか。",
+          "vi": "Đã đặt ở chỗ nào vậy?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "よく<ruby>覚<rp>(</rp><rt>おぼ</rt><rp>)</rp></ruby>えて　いません。でも、<ruby>網棚<rp>(</rp><rt>あみだな</rt><rp>)</rp></ruby>の　<ruby>上<rp>(</rp><rt>うえ</rt><rp>)</rp></ruby>に　<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>きました。",
+          "vi": "Tôi giờ cũng không nhớ rõ. Nhưng mà, tôi đã để ở trên giá hành lý."
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>が　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って　いますか。",
+          "vi": "Bên trong có những gì?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "えーと、<ruby>確<rp>(</rp><rt>たし</rt><rp>)</rp></ruby>か　<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>と　<ruby>傘<rp>(</rp><rt>かさ</rt><rp>)</rp></ruby>が　<ruby>入<rp>(</rp><rt>はい</rt><rp>)</rp></ruby>って　います。",
+          "vi": "Ừm, chắc chắn là có sách và dù bên trong."
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": " じゃ、<ruby>調<rp>(</rp><rt>しら</rt><rp>)</rp></ruby>べますから、ちょっと　<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って　いて　ください。",
+          "vi": "Vậy thì, tôi sẽ tìm kiếm, chị hãy đợi một chút"
+        },
+        {
+          "speaker": null,
+          "jp_html": "ありましたよ。",
+          "vi": "Đã tìm thấy rồi."
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "ああ、よかった。",
+          "vi": "A, thật may quá."
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": " <ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>　<ruby>新宿<rp>(</rp><rt>しんじゅく</rt><rp>)</rp></ruby><ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>に　ありますが、どう　しますか。",
+          "vi": "Bây giờ nó đang ở ga Shinjuku, chị định thế nào?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "すぐ　<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>りに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きます。",
+          "vi": "Tôi sẽ đến lấy ngay."
+        },
+        {
+          "speaker": "<ruby>駅員<rp>(</rp><rt>えきいん</rt><rp>)</rp></ruby>",
+          "jp_html": "じゃ、<ruby>新宿<rp>(</rp><rt>しんじゅく</rt><rp>)</rp></ruby><ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>の　<ruby>事務所<rp>(</rp><rt>じむしょ</rt><rp>)</rp></ruby>へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　ください。",
+          "vi": "Vậy thì, chị hãy đến văn phòng của ga Shinjuku."
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "はい。どうも　ありがとう　ございました。",
+          "vi": "Vâng. Xin cảm ơn rất nhiều"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-30-hoi-thoai.html",
+    "lesson_number": 30,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "チケットを　<ruby>予約<rp>(</rp><rt>よやく</rt><rp>)</rp></ruby>して　おきます",
+        "vi": "Đặt vé sẵn"
+      },
+      "image": "/images/minnamoi/bai30/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/13.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "こんにちは。",
+          "vi": "Xin chào."
+        },
+        {
+          "speaker": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>",
+          "jp_html": "いらっしゃい。さあ、どうそ。",
+          "vi": "Rất vui khi được anh ghé thăm, xin mời."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>大<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>きい　リュックが　<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いて　ありますね。",
+          "vi": "Có cái ba lô to nhỉ."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>山<rp>(</rp><rt>やま</rt><rp>)</rp></ruby>へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですか。",
+          "vi": "Anh đi leo núi à."
+        },
+        {
+          "speaker": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>",
+          "jp_html": "いいえ。<ruby>非常<rp>(</rp><rt>ひじょう</rt><rp>)</rp></ruby><ruby>袋<rp>(</rp><rt>ぶくろ</rt><rp>)</rp></ruby>ですよ。",
+          "vi": "Không. Là túi khẩn cấp ấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>非常<rp>(</rp><rt>ひじょう</rt><rp>)</rp></ruby><ruby>袋<rp>(</rp><rt>ぶくろ</rt><rp>)</rp></ruby>？<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Túi khẩn cấp? Là gì vậy?"
+        },
+        {
+          "speaker": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>非常時<rp>(</rp><rt>ひじょうじ</rt><rp>)</rp></ruby>に　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>う　<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>を　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて　おく　<ruby>袋<rp>(</rp><rt>ふくろ</rt><rp>)</rp></ruby>です。",
+          "vi": "Là túi để những đồ đạc dùng khi khẩn cấp."
+        },
+        {
+          "speaker": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>電気<rp>(</rp><rt>でんき</rt><rp>)</rp></ruby>や　ガスが　<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>まっても、<ruby>３日<rp>(</rp><rt>みっか</rt><rp>)</rp></ruby>ぐらい　<ruby>生活<rp>(</rp><rt>せいかつ</rt><rp>)</rp></ruby>できる　<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>が　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れて　あるんです。",
+          "vi": "Có để những đồ đạc sinh hoạt mà có thể sinh sống 3 ngày cho dù có mất điện hay ga."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>水<rp>(</rp><rt>みず</rt><rp>)</rp></ruby>や　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Để nước hay đồ ăn à?"
+        },
+        {
+          "speaker": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>",
+          "jp_html": "ええ、ほかにも　いろいろ　ありますよ。<ruby>懐中電灯<rp>(</rp><rt>かいちゅうでんとう</rt><rp>)</rp></ruby>とか、ラジオとか…。",
+          "vi": "Vâng, ngoài ra còn có nhiều thứ khác. Như là đèn pin, máy Radio ..."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "わたしも　<ruby>準備<rp>(</rp><rt>じゅんび</rt><rp>)</rp></ruby>して　おかないと。",
+          "vi": "Tôi cũng phải chuẩn bị thôi."
+        },
+        {
+          "speaker": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>非常<rp>(</rp><rt>ひじょう</rt><rp>)</rp></ruby><ruby>袋<rp>(</rp><rt>ぶくろ</rt><rp>)</rp></ruby>は　スーパーでも　<ruby>売<rp>(</rp><rt>う</rt><rp>)</rp></ruby>って　いますよ。",
+          "vi": "Túi khẩn cấp có bán ở siêu thị ấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですか。じゃ、<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って　おきます。",
+          "vi": "Vậy à, vậy tôi sẽ mua."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-31-hoi-thoai.html",
+    "lesson_number": 31,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を　<ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>おうと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って　います",
+        "vi": "Tôi định học nấu ăn"
+      },
+      "image": "/images/minnamoi/bai31/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/16.mp3",
+      "dialogue": [
+        {
+          "speaker": "小川",
+          "jp_html": "<ruby>来月<rp>(</rp><rt>らいげつ</rt><rp>)</rp></ruby>から　<ruby>独身<rp>(</rp><rt>どくしん</rt><rp>)</rp></ruby>です。",
+          "vi": "Từ tháng sau tôi sẽ độc thân đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "えっ？",
+          "vi": "Hả?"
+        },
+        {
+          "speaker": "小川",
+          "jp_html": " <ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は　<ruby>大阪<rp>(</rp><rt>おおさか</rt><rp>)</rp></ruby>の　<ruby>本社<rp>(</rp><rt>ほんしゃ</rt><rp>)</rp></ruby>に　<ruby>転勤<rp>(</rp><rt>てんきん</rt><rp>)</rp></ruby>なんです。",
+          "vi": "Thật ra là tôi sẽ chuyển đến làm việc tại tổng công ty ở Osaka."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>本社<rp>(</rp><rt>ほんしゃ</rt><rp>)</rp></ruby>ですか。それは　おめでとう　ございます。でも、どうして　<ruby>独身<rp>(</rp><rt>どくしん</rt><rp>)</rp></ruby>に　なるんですか。",
+          "vi": "Tổng công ty à? Vậy thì chúc mừng anh nhé. Nhưng mà, tại sao anh lại trở thành độc thân vậy?"
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>と　<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どもは　<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>に　<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>るんです。",
+          "vi": "Vì vợ và con tôi sẽ ở lại Tokyo."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "えっ、いっしょに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かないんですか。",
+          "vi": "Ồ, họ không đi cùng à?"
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "ええ。<ruby>息子<rp>(</rp><rt>むすこ</rt><rp>)</rp></ruby>は　<ruby>来年<rp>(</rp><rt>らいねん</rt><rp>)</rp></ruby>　<ruby>大学<rp>(</rp><rt>だいがく</rt><rp>)</rp></ruby>の　<ruby>入学<rp>(</rp><rt>にゅうがく</rt><rp>)</rp></ruby><ruby>試験<rp>(</rp><rt>しけん</rt><rp>)</rp></ruby>が　あるから、<ruby>東京<rp>(</rp><rt>とうきょう</rt><rp>)</rp></ruby>に<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>るというし、 <ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>も<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の　<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>を　やめたくないと　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>うんです。",
+          "vi": "Vâng. Con trai tôi thì nói là có kỳ thi đại học vào năm sau, còn vợ tôi thì không muốn nghỉ việc ở công ty hiện tại."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "それで、<ruby>別<rp>(</rp><rt>べつ</rt><rp>)</rp></ruby>々に　<ruby>住<rp>(</rp><rt>す</rt><rp>)</rp></ruby>むんですか。",
+          "vi": "Vì thế nên anh sống riêng à?"
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "ええ、でも、<ruby>月<rp>(</rp><rt>つき</rt><rp>)</rp></ruby>に　2、3<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>　<ruby>週末<rp>(</rp><rt>しゅうまつ</rt><rp>)</rp></ruby>に　<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>る　つもりです。",
+          "vi": "Vâng. Nhưng mà một tháng tôi tính về nhà 2, 3 lần vào cuối tuần."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Vất vả thật đấy."
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "でも、いい　チャンスですから、<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を　<ruby>習<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>おうと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って　います。",
+          "vi": "Nhưng mà, đó là cơ hội tốt nên tôi tính học nấu ăn."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "それは　いいですね。",
+          "vi": "Vậy tốt đấy nhỉ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-32-hoi-thoai.html",
+    "lesson_number": 32,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>無理<rp>(</rp><rt>むり</rt><rp>)</rp></ruby>を　しない　ほうが　いいですよ",
+        "vi": "Không nên làm việc quá sức"
+      },
+      "image": "/images/minnamoi/bai32/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/19.mp3",
+      "dialogue": [
+        {
+          "speaker": "小川",
+          "jp_html": "シュミットさん、<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>が　ありませんね。どう　したんですか。",
+          "vi": "Anh Schmidt, trông anh không khỏe lắm. Anh có sao không?"
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>　<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>の　<ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が　よくないんです。",
+          "vi": "Dạo này, tình trạng cơ thể không tốt lắm."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>時々<rp>(</rp><rt>ときどき</rt><rp>)</rp></ruby>　<ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>や　<ruby>胃<rp>(</rp><rt>い</rt><rp>)</rp></ruby>が　<ruby>痛<rp>(</rp><rt>いた</rt><rp>)</rp></ruby>く　なるんです。",
+          "vi": "Đôi khi còn bị đau đầu hay đau bụng nữa."
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "それは　いけませんね。<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が　<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しいんですか。",
+          "vi": "Điều đó không tốt rồi. Công việc bận rộn lắm à?"
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "ええ。<ruby>残業<rp>(</rp><rt>ざんぎょう</rt><rp>)</rp></ruby>が　<ruby>多<rp>(</rp><rt>おお</rt><rp>)</rp></ruby>いんです。",
+          "vi": "Vâng, làm thêm nhiều quá."
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "ストレスかもしれません。",
+          "vi": "Không chừng là stress."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby>　<ruby>病院<rp>(</rp><rt>びょういん</rt><rp>)</rp></ruby>で　<ruby>診<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て　もらった　ほうが　いいですよ。",
+          "vi": "Nên đi khám bệnh viện ấy."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "ええ、そうですね。",
+          "vi": "Vâng, đúng là như vậy nhỉ."
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "<ruby>無理<rp>(</rp><rt>むり</rt><rp>)</rp></ruby>を　しない　ほうが　いいですよ。",
+          "vi": "Không nên làm việc quá sức đâu."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "ええ、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>の　<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が　<ruby>終<rp>(</rp><rt>お</rt><rp>)</rp></ruby>わったら、<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みを　<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>ろうと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っています。",
+          "vi": "Vâng, sau khi công việc hiện tại kết thúc thì tôi sẽ lấy kỳ nghỉ."
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "それは　いいですね。",
+          "vi": "Điều đó tốt nhỉ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-33-hoi-thoai.html",
+    "lesson_number": 33,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "これは　どういう　<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>ですか",
+        "vi": "Cái này có nghĩa gì vậy?"
+      },
+      "image": "/images/minnamoi/bai33/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/22.mp3",
+      "dialogue": [
+        {
+          "speaker": "ワット",
+          "jp_html": "すみません。わたしの　<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>に　こんな　<ruby>紙<rp>(</rp><rt>かみ</rt><rp>)</rp></ruby>が　はって　あったんですが、この　<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>と　<ruby>読<rp>(</rp><rt>よ</rt><rp>)</rp></ruby>むんですか。",
+          "vi": "Xin lỗi. Trên xe hơi của tôi có dán cái này, Chữ kanji này đọc như thế nào vậy?"
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "「ちゅうしゃいはん」です。",
+          "vi": "Đọc là “Vi phạm đỗ xe”"
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "ちゅうしゃいはん･････、どういう　<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Vi phạm đỗ xe････, có nghĩa gì vậy?"
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めては　いけない　<ruby>場所<rp>(</rp><rt>ばしょ</rt><rp>)</rp></ruby>に　<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>を　<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めたと　いう　<ruby>意味<rp>(</rp><rt>いみ</rt><rp>)</rp></ruby>です。",
+          "vi": "Nghĩa là đã đỗ xe ở chỗ cấm đỗ xe."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どこに　<ruby>止<rp>(</rp><rt>と</rt><rp>)</rp></ruby>めたんですか。",
+          "vi": "Ông đã đỗ xe ở đâu vậy?"
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>の　<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>です。<ruby>雑誌<rp>(</rp><rt>ざっし</rt><rp>)</rp></ruby>を　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って、10<ruby>分<rp>(</rp><rt>ぶん</rt><rp>)</rp></ruby>だけ･････。",
+          "vi": "Trước nhà ga. Tôi đi mua tờ tạp chí, chỉ có 10 phút mà･････"
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "<ruby>駅<rp>(</rp><rt>えき</rt><rp>)</rp></ruby>の　<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>だったら、10<ruby>分<rp>(</rp><rt>ぷん</rt><rp>)</rp></ruby>でも　だめですよ。",
+          "vi": "Nếu là trước nhà ga thì dù 10 phút cũng không được đâu."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "そうですか。<ruby>罰金<rp>(</rp><rt>ばっきん</rt><rp>)</rp></ruby>は　<ruby>払<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>わなければ　なりませんか。",
+          "vi": "Vậy à? Tiền phạt phải đóng à?"
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "ええ、15,000<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>　<ruby>払<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>わないと　いけません。",
+          "vi": "Vâng, bắt buộc phải đóng 15,000 yên đấy."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "えっ。15,000<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Hả, 15,000 yên sao?"
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>雑誌<rp>(</rp><rt>ざっし</rt><rp>)</rp></ruby>は　300<ruby>円<rp>(</rp><rt>えん</rt><rp>)</rp></ruby>だったんですけど･････。",
+          "vi": "Tờ tạp chí chỉ có 300 yên thế mà････"
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-34-hoi-thoai.html",
+    "lesson_number": 34,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "わたしが　した　とおりに　して　ください",
+        "vi": "Hãy làm theo tôi"
+      },
+      "image": "/images/minnamoi/bai34/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/25.mp3",
+      "dialogue": [
+        {
+          "speaker": "クララ",
+          "jp_html": "<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby>　<ruby>茶道<rp>(</rp><rt>さどう</rt><rp>)</rp></ruby>が　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たいんですが･････。",
+          "vi": "Tôi muốn xem trà đạo một lần…."
+        },
+        {
+          "speaker": "渡辺",
+          "jp_html": "じゃ、<ruby>来週<rp>(</rp><rt>らいしゅう</rt><rp>)</rp></ruby>の　<ruby>土曜日<rp>(</rp><rt>どようび</rt><rp>)</rp></ruby>　いっしょに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きませんか。",
+          "vi": "Vậy thì, thứ bảy tuần sau mình cùng đi nhé."
+        },
+        {
+          "speaker": "お茶の先生",
+          "jp_html": "<ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さん、お<ruby>茶<rp>(</rp><rt>ちゃ</rt><rp>)</rp></ruby>を　たてて　ください。",
+          "vi": "Cô Watanabe, cô hãy pha trà nhé."
+        },
+        {
+          "speaker": "お茶の先生",
+          "jp_html": "クララさん、お<ruby>菓子<rp>(</rp><rt>かし</rt><rp>)</rp></ruby>を　どうぞ。",
+          "vi": "Cô Kurara, mời cô ăn bánh."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "えっ、<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に　お<ruby>菓子<rp>(</rp><rt>かし</rt><rp>)</rp></ruby>を　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べるんですか。",
+          "vi": "Ồ, ăn bánh trước sao?"
+        },
+        {
+          "speaker": "お茶の先生",
+          "jp_html": "ええ。<ruby>甘<rp>(</rp><rt>あま</rt><rp>)</rp></ruby>い　お<ruby>菓子<rp>(</rp><rt>かし</rt><rp>)</rp></ruby>を　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べた　あとで、お<ruby>茶<rp>(</rp><rt>ちゃ</rt><rp>)</rp></ruby>を　<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>むと、おいしいんですよ。",
+          "vi": "Đúng vậy. Sau khi ăn bánh ngọt rồi thì khi uống trà vào sẽ rất ngon đấy."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "そうですか。",
+          "vi": "Vậy sao?"
+        },
+        {
+          "speaker": "お茶の先生",
+          "jp_html": "では、お<ruby>茶<rp>(</rp><rt>ちゃ</rt><rp>)</rp></ruby>を　<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みましょう。",
+          "vi": "Bây giờ thì hãy uống trà nào."
+        },
+        {
+          "speaker": null,
+          "jp_html": "まず　<ruby>右手<rp>(</rp><rt>みぎて</rt><rp>)</rp></ruby>で　おちゃわんを　<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>って、<ruby>左手<rp>(</rp><rt>ひだりて</rt><rp>)</rp></ruby>に　<ruby>載<rp>(</rp><rt>の</rt><rp>)</rp></ruby>せます。",
+          "vi": "Trước hết, lấy tách trà bằng tay phải và đặt lên bàn tay trái."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>に　おちゃわんを　2<ruby>回<rp>(</rp><rt>かい</rt><rp>)</rp></ruby>　<ruby>回<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>して、それから　<ruby>飲<rp>(</rp><rt>の</rt><rp>)</rp></ruby>みます。",
+          "vi": "Tiếp theo hãy xoay tách trà 2 lần rồi uống."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "はい。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "お茶の先生",
+          "jp_html": "じゃ、わたしが　する　とおりに、して　くださいね。",
+          "vi": "Hãy làm theo như tôi làm nhé."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "これで　いいですか。",
+          "vi": "Như vầy được chưa ạ?"
+        },
+        {
+          "speaker": "お茶の先生",
+          "jp_html": "はい。いかがですか。",
+          "vi": "Vâng. Chị thấy sao?"
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>苦<rp>(</rp><rt>にが</rt><rp>)</rp></ruby>いですが、おいしいです。",
+          "vi": "Có hơi đắng một chút nhưng rất ngon."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-35-hoi-thoai.html",
+    "lesson_number": 35,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "どこか　いい　<ruby>所<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>、　ありませんか",
+        "vi": "Có nơi nào tốt không?"
+      },
+      "image": "/images/minnamoi/bai35/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/28.mp3",
+      "dialogue": [
+        {
+          "speaker": "タワポン",
+          "jp_html": "<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>さん、<ruby>冬休<rp>(</rp><rt>ふゆやす</rt><rp>)</rp></ruby>みに　<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>と　スキーに　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいんですが、どこか　いい　<ruby>所<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>、ありませんか。",
+          "vi": "Anh Suzuki này, vào kỳ nghỉ đông, tôi muốn đi trượt tuyết với bạn mà, có chỗ nào tốt không nhỉ?"
+        },
+        {
+          "speaker": "<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby>　<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>何日<rp>(</rp><rt>なんにち</rt><rp>)</rp></ruby>ぐらいの　<ruby>予定<rp>(</rp><rt>よてい</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Dự định đi khoảng bao nhiêu ngày?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "<ruby>3日<rp>(</rp><rt>みっか</rt><rp>)</rp></ruby>ぐらいです。",
+          "vi": "Khoảng 3 ngày."
+        },
+        {
+          "speaker": "<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby>　<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>",
+          "jp_html": "それなら、<ruby>草津<rp>(</rp><rt>くさつ</rt><rp>)</rp></ruby>か　<ruby>志賀高原<rp>(</rp><rt>しがこうげん</rt><rp>)</rp></ruby>が　いいと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>いますよ。<ruby>温泉<rp>(</rp><rt>おんせん</rt><rp>)</rp></ruby>も　あるし･････。",
+          "vi": "Nếu vậy thì tôi nghĩ Kusatsu hay Shigakougen sẽ tốt đấy. Lại còn có cả suối nước nóng nữa…."
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "どうやって　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くんですか。",
+          "vi": "Đến đó bằng cách nào nhỉ?"
+        },
+        {
+          "speaker": "<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby>　<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>",
+          "jp_html": "JRでも　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けますが、<ruby>夜行<rp>(</rp><rt>やこう</rt><rp>)</rp></ruby><ruby>バス<rp>(</rp><rt>ばす</rt><rp>)</rp></ruby>なら、<ruby>朝<rp>(</rp><rt>あさ</rt><rp>)</rp></ruby>　<ruby>着<rp>(</rp><rt>つ</rt><rp>)</rp></ruby>きますから、<ruby>便利<rp>(</rp><rt>べんり</rt><rp>)</rp></ruby>ですよ。",
+          "vi": "Cũng có thể đi bằng JR nhưng nếu là xe buýt đi ban đêm thì buổi sáng sẽ đến được, nên rất tiện đấy."
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "そうですか。どちらが　<ruby>安<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>いんですか。",
+          "vi": "Vậy à. Cách nào rẻ hơn nhỉ?"
+        },
+        {
+          "speaker": "<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby>　<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>",
+          "jp_html": "さあ･････。<ruby>旅行社<rp>(</rp><rt>りょこうしゃ</rt><rp>)</rp></ruby>へ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けば　もっと　<ruby>詳<rp>(</rp><rt>くわ</rt><rp>)</rp></ruby>しい　ことが　わかりますよ。",
+          "vi": "À,…Nếu bạn đến công ty du lịch thì sẽ biết được nhiều điều chi tiết hơn đấy."
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "それから、スキーの　<ruby>道具<rp>(</rp><rt>どうぐ</rt><rp>)</rp></ruby>や　<ruby>服<rp>(</rp><rt>ふく</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>も　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って　いないんですが･････。",
+          "vi": "Và còn dụng cụ trượt tuyết hay trang phục thì tôi chẳng có cái nào cả….."
+        },
+        {
+          "speaker": "<ruby>鈴<rp>(</rp><rt>すず</rt><rp>)</rp></ruby>　<ruby>木<rp>(</rp><rt>き</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>　<ruby>スキー<rp>(</rp><rt>すきー</rt><rp>)</rp></ruby><ruby>場<rp>(</rp><rt>じょう</rt><rp>)</rp></ruby>で　<ruby>借<rp>(</rp><rt>か</rt><rp>)</rp></ruby>りられますよ。",
+          "vi": "Toàn bộ đều có thể mượn được ở bãi trượt đấy."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>なら、<ruby>旅行社<rp>(</rp><rt>りょこうしゃ</rt><rp>)</rp></ruby>で　<ruby>予約<rp>(</rp><rt>よやく</rt><rp>)</rp></ruby>も　できるし･････。",
+          "vi": "Nếu cậu lo lắng thì cũng có thể đặt trước ở công ty du lịch…."
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "そうですか。どうも　ありがとう　ございました。",
+          "vi": "Vậy à. Cảm ơn anh nhiều lắm."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-36-hoi-thoai.html",
+    "lesson_number": 36,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>するように　して　います",
+        "vi": "Cố gắng vận động mỗi ngày"
+      },
+      "image": "/images/minnamoi/bai36/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/31.mp3",
+      "dialogue": [
+        {
+          "speaker": "アナウンサー",
+          "jp_html": "<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さん、こんにちは。きょうの　お<ruby>客様<rp>(</rp><rt>きゃくさま</rt><rp>)</rp></ruby>は　ことし　80<ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>の　<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>よねさんです。",
+          "vi": "Vị khách ngày hôm nay là bà Ogawa Yone, năm nay 80 tuổi."
+        },
+        {
+          "speaker": "<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>　よね",
+          "jp_html": "こんにちは。",
+          "vi": "Xin chào mọi người."
+        },
+        {
+          "speaker": "アナウンサー",
+          "jp_html": "お<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>ですね。<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>か　<ruby>特別<rp>(</rp><rt>とくべつ</rt><rp>)</rp></ruby>な　ことを　して　いらっしゃいますか。",
+          "vi": "Bà trông thật khỏe mạnh. Bà có đang thực hiện phương pháp đặc biệt gì không?"
+        },
+        {
+          "speaker": "<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>　よね",
+          "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>するように　して　います。",
+          "vi": "Mỗi ngày tôi đều cố gắng vận động."
+        },
+        {
+          "speaker": "アナウンサー",
+          "jp_html": "どんな　<ruby>運動<rp>(</rp><rt>うんどう</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Vận động như thế nào ạ?"
+        },
+        {
+          "speaker": "<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>　よね",
+          "jp_html": "ダンスとか、<ruby>水泳<rp>(</rp><rt>すいえい</rt><rp>)</rp></ruby>とか ･････。",
+          "vi": "Nào là khiêu vũ, bơi lội,…"
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>最近<rp>(</rp><rt>さいきん</rt><rp>)</rp></ruby>　５００メートル　<ruby>泳<rp>(</rp><rt>およ</rt><rp>)</rp></ruby>げるように　なりました。",
+          "vi": "Dạo gần đây tôi cũng đã có thể bơi 500 mét."
+        },
+        {
+          "speaker": "アナウンサー",
+          "jp_html": "すごいですね。<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べ<ruby>物<rp>(</rp><rt>もの</rt><rp>)</rp></ruby>は？",
+          "vi": "Thật là giỏi quá. Còn thức ăn thì sao ạ?"
+        },
+        {
+          "speaker": "<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>　よね",
+          "jp_html": "<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>でも　<ruby>食<rp>(</rp><rt>た</rt><rp>)</rp></ruby>べますが、<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に　<ruby>魚<rp>(</rp><rt>さかな</rt><rp>)</rp></ruby>が　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きです。",
+          "vi": "Cái gì tôi cũng ăn nhưng tôi đặc biệt thích cá."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　<ruby>違<rp>(</rp><rt>ちが</rt><rp>)</rp></ruby>う　<ruby>料理<rp>(</rp><rt>りょうり</rt><rp>)</rp></ruby>を　<ruby>作<rp>(</rp><rt>つく</rt><rp>)</rp></ruby>るように　して　います。",
+          "vi": "Mỗi ngày tôi đều cố gắng làm những món khác nhau."
+        },
+        {
+          "speaker": "アナウンサー",
+          "jp_html": "<ruby>頭<rp>(</rp><rt>あたま</rt><rp>)</rp></ruby>と　<ruby>体<rp>(</rp><rt>からだ</rt><rp>)</rp></ruby>を　よく　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>って　いらっしゃるんですね。",
+          "vi": "Bà hay sử dụng trí óc và cơ thể thật."
+        },
+        {
+          "speaker": "<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>　よね",
+          "jp_html": "ええ。<ruby>来年<rp>(</rp><rt>らいねん</rt><rp>)</rp></ruby>　フランスへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>きたいと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>っています。",
+          "vi": "Đúng vậy. Tôi muốn đến Pháp vào năm sau."
+        },
+        {
+          "speaker": "<ruby>小川<rp>(</rp><rt>おがわ</rt><rp>)</rp></ruby>　よね",
+          "jp_html": "それで　フランス<ruby>語<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>の　<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>も　<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めました。",
+          "vi": "Vì thế tôi cũng đã bắt đầu học tiếng Pháp."
+        },
+        {
+          "speaker": "アナウンサー",
+          "jp_html": "<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>でも　チャレンジする　<ruby>気持<rp>(</rp><rt>きも</rt><rp>)</rp></ruby>ちが　<ruby>大切<rp>(</rp><rt>たいせつ</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Tinh thần thử thách với bất cứ mọi việc mới là quan trọng nhỉ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しい　お<ruby>話<rp>(</rp><rt>はなし</rt><rp>)</rp></ruby>、どうも　ありがとう　ございました。",
+          "vi": "Xin cảm ơn bà rất nhiều vì câu chuyện thật thú vị."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-37-hoi-thoai.html",
+    "lesson_number": 37,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>金閣寺<rp>(</rp><rt>きんかくじ</rt><rp>)</rp></ruby>は　１４<ruby>世紀<rp>(</rp><rt>せいき</rt><rp>)</rp></ruby>に　<ruby>建<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てられました",
+        "vi": "Chùa Kinkaku được xây vào thế kỷ 14"
+      },
+      "image": "/images/minnamoi/bai37/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/34.mp3",
+      "dialogue": [
+        {
+          "speaker": "ガイド",
+          "jp_html": "<ruby>皆様<rp>(</rp><rt>みなさま</rt><rp>)</rp></ruby>、あちらが　<ruby>有名<rp>(</rp><rt>ゆうめい</rt><rp>)</rp></ruby>な　<ruby>金閣寺<rp>(</rp><rt>きんかくじ</rt><rp>)</rp></ruby>です。",
+          "vi": "Mọi người, kia là chùa nổi tiếng Kinkaku."
+        },
+        {
+          "speaker": "ガイド",
+          "jp_html": "<ruby>金閣寺<rp>(</rp><rt>きんかくじ</rt><rp>)</rp></ruby>は　14<ruby>世紀<rp>(</rp><rt>せいき</rt><rp>)</rp></ruby>に　<ruby>建<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てられました。",
+          "vi": "Chùa Kinkaku được xây vào thế kỷ 14."
+        },
+        {
+          "speaker": "ガイド",
+          "jp_html": "1950<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>に　<ruby>一度<rp>(</rp><rt>いちど</rt><rp>)</rp></ruby>　<ruby>焼<rp>(</rp><rt>や</rt><rp>)</rp></ruby>けて　しまいましたが、その<ruby>後<rp>(</rp><rt>ご</rt><rp>)</rp></ruby>　<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい　<ruby>建物<rp>(</rp><rt>たてもの</rt><rp>)</rp></ruby>が　<ruby>建<rp>(</rp><rt>た</rt><rp>)</rp></ruby>てられて、1994<ruby>年<rp>(</rp><rt>とし</rt><rp>)</rp></ruby>に　<ruby>世界<rp>(</rp><rt>せかい</rt><rp>)</rp></ruby><ruby>遺産<rp>(</rp><rt>いさん</rt><rp>)</rp></ruby>になりました。",
+          "vi": "Vào năm 1950 bị cháy một lần nhưng sau đó tòa nhà mới được xây dựng. Vào năm 1994 được đưa vào di sản thế giới."
+        },
+        {
+          "speaker": "ガイド",
+          "jp_html": "<ruby>京都<rp>(</rp><rt>きょうと</rt><rp>)</rp></ruby>で　<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby>が　ある　お<ruby>寺<rp>(</rp><rt>てら</rt><rp>)</rp></ruby>の　<ruby>一<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>つです。",
+          "vi": "Là một trong những ngôi chùa được yêu thích ở Kyoto."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "きれいですね。<ruby>壁<rp>(</rp><rt>かべ</rt><rp>)</rp></ruby>が　<ruby>金色<rp>(</rp><rt>きんいろ</rt><rp>)</rp></ruby>ですが、<ruby>本物<rp>(</rp><rt>ほんもの</rt><rp>)</rp></ruby>の　<ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Đẹp nhỉ. Tường màu vàng, là vàng thật à?"
+        },
+        {
+          "speaker": "ガイド",
+          "jp_html": "はい。<ruby>金<rp>(</rp><rt>きん</rt><rp>)</rp></ruby>が 20キロぐらい　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>われました。",
+          "vi": "Vâng. 20Kg vàng được sử dụng."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "そうですか。あの　<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>に　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れますか。",
+          "vi": "Vậy à, có thể  vào bên trong không?"
+        },
+        {
+          "speaker": "ガイド",
+          "jp_html": "<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>には　<ruby>入<rp>(</rp><rt>い</rt><rp>)</rp></ruby>れないんです。",
+          "vi": "Bên trong thì không thể vào được."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>池<rp>(</rp><rt>いけ</rt><rp>)</rp></ruby>の　<ruby>周<rp>(</rp><rt>まわ</rt><rp>)</rp></ruby>りを　<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>きながら　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て　ください。",
+          "vi": "Hãy vừa đi xung quanh hồ vừa xem."
+        },
+        {
+          "speaker": "カリナ",
+          "jp_html": "<ruby>紅葉<rp>(</rp><rt>こうよう</rt><rp>)</rp></ruby>が　きれいですね。",
+          "vi": "Lá đỏ đẹp nhỉ."
+        },
+        {
+          "speaker": "ガイド",
+          "jp_html": "ええ。<ruby>金閣寺<rp>(</rp><rt>きんかくじ</rt><rp>)</rp></ruby>は　<ruby>紅葉<rp>(</rp><rt>こうよう</rt><rp>)</rp></ruby>を　<ruby>雪<rp>(</rp><rt>ゆき</rt><rp>)</rp></ruby>の　<ruby>季節<rp>(</rp><rt>きせつ</rt><rp>)</rp></ruby>が　<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に　<ruby>美<rp>(</rp><rt>うつく</rt><rp>)</rp></ruby>しいと　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>われています。",
+          "vi": "Vâng. Chùa Kinkaku đặc biệt đẹp vào mùa lá đỏ và mùa tuyết."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-38-hoi-thoai.html",
+    "lesson_number": 38,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>片付<rp>(</rp><rt>かたづ</rt><rp>)</rp></ruby>けるのが　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなんです",
+        "vi": "Vì tôi thích dọn dẹp mà"
+      },
+      "image": "/images/minnamoi/bai38/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/37.mp3",
+      "dialogue": [
+        {
+          "speaker": "大学職員",
+          "jp_html": "ワット<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>、<ruby>回覧<rp>(</rp><rt>かいらん</rt><rp>)</rp></ruby>です。",
+          "vi": "Thầy Watt, bản thông báo đây."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "あ、すみません。そこに　<ruby>置<rp>(</rp><rt>お</rt><rp>)</rp></ruby>いといて　ください。",
+          "vi": "A, xin lỗi. Hãy để ở đó giúp tôi nhé."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>の　<ruby>研究室<rp>(</rp><rt>けんきゅうしつ</rt><rp>)</rp></ruby>は　いつも　きれいですね。",
+          "vi": "Phòng nghiên cứu của thầy lúc nào cũng sạch đẹp nhỉ."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "わたしは　<ruby>片付<rp>(</rp><rt>かたづ</rt><rp>)</rp></ruby>けるのが　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きなんです。",
+          "vi": "Tôi thích dọn dẹp mà."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>も　きちんと　<ruby>並<rp>(</rp><rt>なら</rt><rp>)</rp></ruby>べて　あるし･････。",
+          "vi": "Sách cũng được để ngăn nắp…."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>整理<rp>(</rp><rt>せいり</rt><rp>)</rp></ruby>するのが　<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>なんですね。",
+          "vi": "Thầy thật là giỏi sắp xếp nhỉ."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "<ruby>昔<rp>(</rp><rt>むかし</rt><rp>)</rp></ruby>　「<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>な　<ruby>整理<rp>(</rp><rt>せいり</rt><rp>)</rp></ruby>の　<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>」という　<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を　<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いた　ことが　あるんです 。",
+          "vi": "Hồi xưa tôi đã từng viết cuốn sách tên là “Phương pháp sắp xếp hay”."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "へえ、すごいですね。",
+          "vi": "Ồ, thầy thật là giỏi."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "あまり　<ruby>売<rp>(</rp><rt>う</rt><rp>)</rp></ruby>れませんでしたけどね。",
+          "vi": "Nhưng mà sách không bán chạy lắm."
+        },
+        {
+          "speaker": null,
+          "jp_html": "よかったら、1<ruby>冊<rp>(</rp><rt>さつ</rt><rp>)</rp></ruby>　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>ましょうか。",
+          "vi": "Nếu được, tôi mang cho chị một quyển nhé."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "おはよう　ございます。",
+          "vi": "Chào buổi sáng."
+        },
+        {
+          "speaker": "ワット",
+          "jp_html": "あ、<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を　<ruby>持<rp>(</rp><rt>も</rt><rp>)</rp></ruby>って　<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>るのを　<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れました。すみません。",
+          "vi": "A, tôi quên mang sách cho chị rồi. Thật xin lỗi."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "いいですよ。でも、<ruby>回覧<rp>(</rp><rt>かいらん</rt><rp>)</rp></ruby>に　はんこを　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>すのを　<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れないで　ください。",
+          "vi": "Không sao mà. Nhưng xin thầy đừng quên đóng dấu vào bản thông báo."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>先月<rp>(</rp><rt>せんげつ</rt><rp>)</rp></ruby>も　<ruby>押<rp>(</rp><rt>お</rt><rp>)</rp></ruby>して　ありませんでしたよ。",
+          "vi": "Tháng trước thầy cũng không có đóng dấu đấy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-39-hoi-thoai.html",
+    "lesson_number": 39,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れて、すみません",
+        "vi": "Xin lỗi tôi đến muộn"
+      },
+      "image": "/images/minnamoi/bai39/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/40.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>、<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れて、すみません。",
+          "vi": "Tổ trưởng, tôi xin lỗi đã đến muộn."
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "ミラーさん、どう　したんですか。",
+          "vi": "Anh Miller, có chuyện gì vậy?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は　<ruby>来<rp>(</rp><rt>く</rt><rp>)</rp></ruby>る　<ruby>途中<rp>(</rp><rt>とちゅう</rt><rp>)</rp></ruby>で　<ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>が　あって、バスが　<ruby>遅<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>れて　しまったんです。",
+          "vi": "Thật ra là trong giữa đường đi có xảy ra tai nạn nên xe buýt mới bị trễ."
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "バスの　<ruby>事故<rp>(</rp><rt>じこ</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Tai nạn xe buýt à?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "いいえ。<ruby>交差点<rp>(</rp><rt>こうさてん</rt><rp>)</rp></ruby>で　トラックと　<ruby>車<rp>(</rp><rt>くるま</rt><rp>)</rp></ruby>が　ぶつかって、バスが　<ruby>動<rp>(</rp><rt>うご</rt><rp>)</rp></ruby>かなかったんです。",
+          "vi": "Không phải. Ở ngã tư, xe tải và xe hơi va chạm nhau nên xe buýt không thể di chuyển được."
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "それは　<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>でしたね。",
+          "vi": "Ghê quá nhỉ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>が　ないので、みんな　<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>して　いたんですよ。",
+          "vi": "Vì cậu không liên lạc nên mọi người đã lo lắng đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>電話<rp>(</rp><rt>でんわ</rt><rp>)</rp></ruby>したかったんですが、ケータイを　うちに　<ruby>忘<rp>(</rp><rt>わす</rt><rp>)</rp></ruby>れて　しまって･････。",
+          "vi": "Tôi đã muốn liên lạc nhưng đã quên điện thoại di động ở nhà mất tiêu…."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どうも　すみませんでした。",
+          "vi": "Tôi thành thật xin lỗi."
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "わかりました。",
+          "vi": "Tôi hiểu rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "じゃ、<ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>を　<ruby>始<rp>(</rp><rt>はじ</rt><rp>)</rp></ruby>めましょう。",
+          "vi": "Vậy thì chúng ta bắt đầu họp đi nào."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-40-hoi-thoai.html",
+    "lesson_number": 40,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が　できたか　どうか、<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>です",
+        "vi": "Tôi lo không biết nó có kết bạn được hay không"
+      },
+      "image": "/images/minnamoi/bai40/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/43.mp3",
+      "dialogue": [
+        {
+          "speaker": "クララ",
+          "jp_html": "<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>、ハンスは　<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>で　どうでしょうか。",
+          "vi": "Thưa cô, Hans ở trường như thế nào ạ?"
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が　できたか　どうか、<ruby>心配<rp>(</rp><rt>しんぱい</rt><rp>)</rp></ruby>なんですが･････。",
+          "vi": "Tôi lo không biết cháu nó có kết bạn được hay không…."
+        },
+        {
+          "speaker": "伊藤先生",
+          "jp_html": "<ruby>大丈夫<rp>(</rp><rt>だいじょうぶ</rt><rp>)</rp></ruby>ですよ。",
+          "vi": "Không sao cả đâu."
+        },
+        {
+          "speaker": null,
+          "jp_html": "ハンス<ruby>君<rp>(</rp><rt>くん</rt><rp>)</rp></ruby>は　クラスで　とても　<ruby>人気<rp>(</rp><rt>にんき</rt><rp>)</rp></ruby>が　あります。",
+          "vi": "Em Hans rất được yêu thích trong lớp đấy."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "そうですか。<ruby>安心<rp>(</rp><rt>あんしん</rt><rp>)</rp></ruby>しました。",
+          "vi": "Vậy à. Tôi an tâm rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>は　どうですか。<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>が　<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>だと　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　いますが、･････。",
+          "vi": "Việc học của cháu thì sao ạ? Cháu có nói là môn Hán tự khá vất vả,…"
+        },
+        {
+          "speaker": "伊藤先生",
+          "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　<ruby>漢字<rp>(</rp><rt>かんじ</rt><rp>)</rp></ruby>の　テストを　して　いますが、ハンス<ruby>君<rp>(</rp><rt>くん</rt><rp>)</rp></ruby>は　いい　<ruby>成績<rp>(</rp><rt>せいせき</rt><rp>)</rp></ruby>ですよ。",
+          "vi": "Mỗi ngày đều có bài kiểm tra Hán tự nhưng em Hans cũng có thành tích tốt đấy."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "そうですか。ありがとう　ございます。",
+          "vi": "Vậy à. Xin cảm ơn cô nhiều."
+        },
+        {
+          "speaker": "伊藤先生",
+          "jp_html": "ところで、もうすぐ　<ruby>運動会<rp>(</rp><rt>うんどうかい</rt><rp>)</rp></ruby>ですが、お<ruby>父<rp>(</rp><rt>とう</rt><rp>)</rp></ruby>さんも　いらっしゃいますか。",
+          "vi": "Nhân tiện đây, sắp sửa đến đại hội thể thao rồi, không biết bố cháu có đến dự không?"
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "ええ。",
+          "vi": "Có ạ."
+        },
+        {
+          "speaker": "伊藤先生",
+          "jp_html": "ハンス<ruby>君<rp>(</rp><rt>くん</rt><rp>)</rp></ruby>が　<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>で　どんな　<ruby>様子<rp>(</rp><rt>ようす</rt><rp>)</rp></ruby>か、ぜひ　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>て　ください。",
+          "vi": "Anh chị nhất định hãy đến xem em Hans ở trường như thế nào nhé."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "わかりました。これからも　よろしく　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Tôi hiểu rồi. Từ giờ cũng xin nhờ cô giúp đỡ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-41-hoi-thoai.html",
+    "lesson_number": 41,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "ご<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>　おめでとう　ございます",
+        "vi": "Chúc mừng lễ kết hôn"
+      },
+      "image": "/images/minnamoi/bai41/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/46.mp3",
+      "dialogue": [
+        {
+          "speaker": "学長",
+          "jp_html": "ワットさん、いずみさん、ご<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>　おめでとうございます。<ruby>乾杯<rp>(</rp><rt>かんぱい</rt><rp>)</rp></ruby>。",
+          "vi": "Chúc mừng ông Watt, chị Izumi kết hôn. Cạn ly."
+        },
+        {
+          "speaker": "皆",
+          "jp_html": "<ruby>乾杯<rp>(</rp><rt>かんぱい</rt><rp>)</rp></ruby>",
+          "vi": "Cạn ly."
+        },
+        {
+          "speaker": "司会者",
+          "jp_html": "<ruby>次<rp>(</rp><rt>つぎ</rt><rp>)</rp></ruby>に　こちらの　<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さんに　ひとことずつ　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Tiếp theo thì xin mọi người ở đây lần lượt nói đôi lời."
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "わたしは　<ruby>去年<rp>(</rp><rt>きょねん</rt><rp>)</rp></ruby>の　<ruby>夏<rp>(</rp><rt>なつ</rt><rp>)</rp></ruby>の　クラスで　ワット<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に　<ruby>英語<rp>(</rp><rt>えいご</rt><rp>)</rp></ruby>を　<ruby>教<rp>(</rp><rt>おし</rt><rp>)</rp></ruby>えて　いたたきました。",
+          "vi": "Tôi thì vào mùa hè năm ngoái được thầy Watt dạy tiếng Anh tại lớp học."
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>の　<ruby>授業<rp>(</rp><rt>じゅぎょう</rt><rp>)</rp></ruby>は　ユーモアがあって、<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しかったです。",
+          "vi": "Giờ học của thầy hài hước và vui vẻ."
+        },
+        {
+          "speaker": "松本良子",
+          "jp_html": "<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は　その　クラスに　いずみさんも　いらっしゃったんです。",
+          "vi": "Thực ra thì lớp học đó cũng có chị Izumi."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "わたしは　<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に　「<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>な　<ruby>整理<rp>(</rp><rt>せいり</rt><rp>)</rp></ruby>の　<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>」と　いう　<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を　いただきました。",
+          "vi": "Tôi thì nhận được quyển sách \"Cách sắp xếp giỏi\" từ thầy."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>は　<ruby>整理<rp>(</rp><rt>せいり</rt><rp>)</rp></ruby>するのが<ruby>上手<rp>(</rp><rt>じょうず</rt><rp>)</rp></ruby>で、<ruby>研究室<rp>(</rp><rt>けんきゅうしつ</rt><rp>)</rp></ruby>は　いつも　きれいです。",
+          "vi": "Thầy sắp xếp giỏi, phòng nghiên cứu lúc nào cũng sạch đẹp."
+        },
+        {
+          "speaker": "大学職員",
+          "jp_html": "きっと　お<ruby>二人<rp>(</rp><rt>ふたり</rt><rp>)</rp></ruby>の　お<ruby>宅<rp>(</rp><rt>たく</rt><rp>)</rp></ruby>も　すてきだと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
+          "vi": "Tôi nghĩ căn nhà của hai người chắc sẽ tuyệt vời lắm đấy."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ワットさん、<ruby>今度<rp>(</rp><rt>こんど</rt><rp>)</rp></ruby>は　「すてきな　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>と　<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>する　<ruby>方法<rp>(</rp><rt>ほうほう</rt><rp>)</rp></ruby>」　という　<ruby>本<rp>(</rp><rt>ほん</rt><rp>)</rp></ruby>を　<ruby>書<rp>(</rp><rt>か</rt><rp>)</rp></ruby>いて　くださいませんか。",
+          "vi": "Thầy Watt, sắp tới thầy viết cho tôi sách \"Phương pháp kết hôn với người tuyệt vời\" được không?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ぜひ　よんで、<ruby>勉強<rp>(</rp><rt>べんきょう</rt><rp>)</rp></ruby>したいです。どうぞ　お<ruby>幸<rp>(</rp><rt>しあわ</rt><rp>)</rp></ruby>せに。",
+          "vi": "Nhất định tôi muốn đọc và học tập. Chúc hạnh phúc."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-42-hoi-thoai.html",
+    "lesson_number": 42,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "ボーナスは　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますか",
+        "vi": "Tiền thưởng sẽ dùng làm gì vậy?"
+      },
+      "image": "/images/minnamoi/bai42/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/49.mp3",
+      "dialogue": [
+        {
+          "speaker": "鈴木",
+          "jp_html": "<ruby>林<rp>(</rp><rt>はやし</rt><rp>)</rp></ruby>さん、ボーナスは　いつ　<ruby>出<rp>(</rp><rt>で</rt><rp>)</rp></ruby>るんですか。",
+          "vi": "Cô Hayashi này, chừng nào có thưởng vậy?"
+        },
+        {
+          "speaker": "林",
+          "jp_html": "<ruby>来週<rp>(</rp><rt>らいしゅう</rt><rp>)</rp></ruby>です。<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>さんの<ruby>会社<rp>(</rp><rt>かいしゃ</rt><rp>)</rp></ruby>は？",
+          "vi": "Tuần sau cơ. Còn công ty anh Suzuki thì sao?"
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "あしたです。<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しみですね。",
+          "vi": "Ngày mai đấy. Tôi đang trông chờ đây."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "ええ。<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>さんは　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いますか。",
+          "vi": "Vâng, anh Suzuki dùng cho việc gì?"
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "まず　<ruby>新<rp>(</rp><rt>あたら</rt><rp>)</rp></ruby>しい　<ruby>自転車<rp>(</rp><rt>じてんしゃ</rt><rp>)</rp></ruby>を　<ruby>買<rp>(</rp><rt>か</rt><rp>)</rp></ruby>って、それから　<ruby>旅行<rp>(</rp><rt>りょこう</rt><rp>)</rp></ruby>に　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って･････。",
+          "vi": "Trước tiên tôi sẽ mua xe hơi mới, rồi sau đó sẽ đi du lịch…"
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "<ruby>貯金<rp>(</rp><rt>ちょきん</rt><rp>)</rp></ruby>は　しないんですか。",
+          "vi": "Anh không để dành tiền à?"
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は　あまり　<ruby>考<rp>(</rp><rt>かんが</rt><rp>)</rp></ruby>えた　こと、ありませんね。",
+          "vi": "Tôi không nghĩ đến cho lắm đâu."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "わたしは　<ruby>半分<rp>(</rp><rt>はんぶん</rt><rp>)</rp></ruby>は　<ruby>貯金<rp>(</rp><rt>ちょきん</rt><rp>)</rp></ruby>する　つもりです。",
+          "vi": "Tôi thì dự định để dành một nữa."
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "えっ、<ruby>半分<rp>(</rp><rt>はんぶん</rt><rp>)</rp></ruby>も　<ruby>貯金<rp>(</rp><rt>ちょきん</rt><rp>)</rp></ruby>するんですか。",
+          "vi": "Ủa, để dành một nữa cơ à?"
+        },
+        {
+          "speaker": "林",
+          "jp_html": "ええ。いつか　イギリスへ　<ruby>留学<rp>(</rp><rt>りゅうがく</rt><rp>)</rp></ruby>しようと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>って　いるんです。",
+          "vi": "Vâng. Tôi dự định lúc nào đó sẽ đi du học ở Anh."
+        },
+        {
+          "speaker": "小川",
+          "jp_html": "へえ、<ruby>独身<rp>(</rp><rt>どくしん</rt><rp>)</rp></ruby>の　<ruby>人<rp>(</rp><rt>ひと</rt><rp>)</rp></ruby>は　いいですね。<ruby>全部<rp>(</rp><rt>ぜんぶ</rt><rp>)</rp></ruby>　<ruby>自分<rp>(</rp><rt>じぶん</rt><rp>)</rp></ruby>の　ために　<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>えて。",
+          "vi": "Ôi, người độc thân sướng nhỉ. Có thể dùng toàn bộ cho bản thân mình."
+        },
+        {
+          "speaker": null,
+          "jp_html": "わたしは　<ruby>家<rp>(</rp><rt>いえ</rt><rp>)</rp></ruby>の　ローンを　<ruby>払<rp>(</rp><rt>はら</rt><rp>)</rp></ruby>って、<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どもの　<ruby>教育<rp>(</rp><rt>きょういく</rt><rp>)</rp></ruby>の　ために、<ruby>貯金<rp>(</rp><rt>ちょきん</rt><rp>)</rp></ruby>したら、ほとんど　<ruby>残<rp>(</rp><rt>のこ</rt><rp>)</rp></ruby>りませんよ。",
+          "vi": "Tôi thì vì phải trả góp cho căn nhà, rồi phải để dành chi tiền học cho con, nên chẳng còn lại bao nhiêu."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-43-hoi-thoai.html",
+    "lesson_number": 43,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しそうです",
+        "vi": "Trông có vẻ vui vẻ mỗi ngày."
+      },
+      "image": "/images/minnamoi/bai43/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/52.mp3",
+      "dialogue": [
+        {
+          "speaker": "林",
+          "jp_html": "これ、どなたの　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Cái này, là hình ai vậy?"
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "<ruby>息子<rp>(</rp><rt>むすこ</rt><rp>)</rp></ruby>の　ハンスです。<ruby>運動会<rp>(</rp><rt>うんどうかい</rt><rp>)</rp></ruby>の　とき、<ruby>撮<rp>(</rp><rt>と</rt><rp>)</rp></ruby>った　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>です。",
+          "vi": "Là Hán con trai tôi. Là bức hình chụp lúc ở đại hội thể thao."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "<ruby>元気<rp>(</rp><rt>げんき</rt><rp>)</rp></ruby>そうでね。",
+          "vi": "Trông khỏe khoắn nhỉ."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "ええ。ハンスは　<ruby>走<rp>(</rp><rt>はし</rt><rp>)</rp></ruby>るのが　<ruby>速<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>いんですよ。",
+          "vi": "Vâng, Hans chạy nhanh lắm ấy."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "<ruby>日本<rp>(</rp><rt>にほん</rt><rp>)</rp></ruby>の　<ruby>小学校<rp>(</rp><rt>しょうがっこう</rt><rp>)</rp></ruby>にも　<ruby>慣<rp>(</rp><rt>な</rt><rp>)</rp></ruby>れて、<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>も　できて、<ruby>毎日<rp>(</rp><rt>まいにち</rt><rp>)</rp></ruby>　<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しそうです。",
+          "vi": "Đã quen với trường tiểu học Nhật Bản, cũng có bạn, mỗi ngày đều vui vẻ."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "よかったですね。",
+          "vi": "Tốt nhỉ!"
+        },
+        {
+          "speaker": "林",
+          "jp_html": "こちらの　<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>は　<ruby>奥<rp>(</rp><rt>おく</rt><rp>)</rp></ruby>さんですか。きれいな　<ruby>方<rp>(</rp><rt>ほう</rt><rp>)</rp></ruby>ですね。",
+          "vi": "Người này là vợ ông à. Là người xinh đẹp nhỉ."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "ありがとう　ございます。",
+          "vi": "Cám ơn."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "<ruby>妻<rp>(</rp><rt>つま</rt><rp>)</rp></ruby>は　いろいろな　ことに　<ruby>興味<rp>(</rp><rt>きょうみ</rt><rp>)</rp></ruby>が　あって、いっしょにいると、おもしろいですよ。",
+          "vi": "Vợ tôi có hứng thú về nhiều thứ, khi ở gần thì thú vị lắm ấy."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "そうですか。",
+          "vi": "Thế à."
+        },
+        {
+          "speaker": "シュミット",
+          "jp_html": "<ruby>特<rp>(</rp><rt>とく</rt><rp>)</rp></ruby>に　<ruby>歴史<rp>(</rp><rt>れきし</rt><rp>)</rp></ruby>が　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きで、<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>が　あれば、　<ruby>古<rp>(</rp><rt>ふる</rt><rp>)</rp></ruby>い　<ruby>町<rp>(</rp><rt>まち</rt><rp>)</rp></ruby>を　<ruby>歩<rp>(</rp><rt>ある</rt><rp>)</rp></ruby>いて　います。",
+          "vi": "Đặc biệt là thích lịch sử, nếu co thời gian thì đi tham quan thành phố cổ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-44-hoi-thoai.html",
+    "lesson_number": 44,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "この　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>みたいに　して　ください",
+        "vi": "Hãy làm giống như tấm hình này"
+      },
+      "image": "/images/minnamoi/bai44/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/55.mp3",
+      "dialogue": [
+        {
+          "speaker": "美容師",
+          "jp_html": "いらっしゃいませ。きょうは　どう　なさいますか。",
+          "vi": "Xin chào quý khách. Hôm nay chị muốn làm gì ạ?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "カット、お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Tôi muốn cắt tóc."
+        },
+        {
+          "speaker": "美容師",
+          "jp_html": "じゃ、シャンプーを　しますから、こちらへ　どうぞ。",
+          "vi": "Vậy thì sẽ gội đầu nên mời chị đi lối này."
+        },
+        {
+          "speaker": null,
+          "jp_html": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐",
+          "vi": null
+        },
+        {
+          "speaker": "美容師",
+          "jp_html": "カットは　どういうふうに　なさいますか。",
+          "vi": "Cắt thì chị muốn cắt kiểu nào đây ạ?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "ショートに　したいんですけど、･････。",
+          "vi": "Tôi muốn cắt ngắn lên nhưng mà…"
+        },
+        {
+          "speaker": null,
+          "jp_html": "この　<ruby>写真<rp>(</rp><rt>しゃしん</rt><rp>)</rp></ruby>みたいに　して　ください。",
+          "vi": "Xin hãy cắt giống như tấm hình này đây."
+        },
+        {
+          "speaker": "美容師",
+          "jp_html": "あ、すてきですね 。",
+          "vi": "A, tuyệt quá nhỉ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐",
+          "vi": null
+        },
+        {
+          "speaker": "美容師",
+          "jp_html": "<ruby>前<rp>(</rp><rt>まえ</rt><rp>)</rp></ruby>の　<ruby>長<rp>(</rp><rt>なが</rt><rp>)</rp></ruby>さは　これで　よろしいでしょうか。",
+          "vi": "Độ dài phía trước như vậy đã được chưa ạ?"
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "そうですね。もう　<ruby>少<rp>(</rp><rt>すこ</rt><rp>)</rp></ruby>し　<ruby>短<rp>(</rp><rt>みじか</rt><rp>)</rp></ruby>く　して　ください。",
+          "vi": "Ừ nhỉ. Anh hãy cắt ngắn thêm chút nữa."
+        },
+        {
+          "speaker": null,
+          "jp_html": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐",
+          "vi": null
+        },
+        {
+          "speaker": "美容師",
+          "jp_html": "どうも　お<ruby>疲<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>れさまでした。",
+          "vi": "Chị đã vất vả rồi."
+        },
+        {
+          "speaker": "イー",
+          "jp_html": "ありがとう。",
+          "vi": "Cảm ơn chị."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-45-hoi-thoai.html",
+    "lesson_number": 45,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "コースを　まちがえた　<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>、どう　したら　いいですか",
+        "vi": "Trường hợp nhầm đường chạy thì làm thế nào?"
+      },
+      "image": "/images/minnamoi/bai45/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/58.mp3",
+      "dialogue": [
+        {
+          "speaker": "係員",
+          "jp_html": "<ruby>皆<rp>(</rp><rt>みな</rt><rp>)</rp></ruby>さん、この　マラソンは　<ruby>健康<rp>(</rp><rt>けんこう</rt><rp>)</rp></ruby>マラソンですから、<ruby>無理<rp>(</rp><rt>むり</rt><rp>)</rp></ruby>を　しないで　ください。",
+          "vi": "Mọi người, cuộc thi marathon ngày hôm nay là cuộc thi marathon sức khỏe nên đừng cố gắng quá sức nhé."
+        },
+        {
+          "speaker": null,
+          "jp_html": "もし　<ruby>気分<rp>(</rp><rt>きぶん</rt><rp>)</rp></ruby>が　<ruby>悪<rp>(</rp><rt>わる</rt><rp>)</rp></ruby>く　なったら、<ruby>係員<rp>(</rp><rt>かかりいん</rt><rp>)</rp></ruby>に　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って　ください。",
+          "vi": "Nếu cảm thấy không khỏe hãy nói cho người phụ trách nhé."
+        },
+        {
+          "speaker": "参加者全員",
+          "jp_html": "はい。",
+          "vi": "Vâng ạ."
+        },
+        {
+          "speaker": "参加者１",
+          "jp_html": "すみません。コースを　まちがえた　<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>は、どう　したら　いいですか。",
+          "vi": "Trường hợp sai hành trình thì làm thế nào?"
+        },
+        {
+          "speaker": "係人",
+          "jp_html": "<ruby>元<rp>(</rp><rt>もと</rt><rp>)</rp></ruby>の　<ruby>所<rp>(</rp><rt>ところ</rt><rp>)</rp></ruby>に　<ruby>戻<rp>(</rp><rt>もど</rt><rp>)</rp></ruby>って　<ruby>続<rp>(</rp><rt>つづ</rt><rp>)</rp></ruby>けて　ください。",
+          "vi": "Hãy quay lại chỗ cũ và tiếp tục."
+        },
+        {
+          "speaker": "参加者２",
+          "jp_html": "あのう、<ruby>途中<rp>(</rp><rt>とちゅう</rt><rp>)</rp></ruby>で　やめたい　<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>は？。",
+          "vi": "Xin lỗi, trong trường hợp muốn bỏ dở nữa chừng thì sao ạ?"
+        },
+        {
+          "speaker": "係人",
+          "jp_html": "その　<ruby>場合<rp>(</rp><rt>ばあい</rt><rp>)</rp></ruby>は、<ruby>近<rp>(</rp><rt>ちか</rt><rp>)</rp></ruby>くの　<ruby>係<rp>(</rp><rt>かかり</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>に　<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を　<ruby>言<rp>(</rp><rt>い</rt><rp>)</rp></ruby>って、<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>って　ください。",
+          "vi": "Trường hợp đó thì hãy nói tên mình cho người phụ trách gần đó, rồi hãy đi về."
+        },
+        {
+          "speaker": null,
+          "jp_html": "では、スタートの　<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>です。",
+          "vi": "Bây giờ, cũng đã đến giờ xuất phát."
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "ミラーさん、マラソンは　どうでしたか。",
+          "vi": "Miller này, cuộc thi Marathon thế nào rồi?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "2<ruby>位<rp>(</rp><rt>くらい</rt><rp>)</rp></ruby>でした。",
+          "vi": "Tôi được hạng 2."
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "2<ruby>位<rp>(</rp><rt>くらい</rt><rp>)</rp></ruby>だったんですか。すごいですね。",
+          "vi": "Hạng 2 cơ à. Cậu giỏi quá."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "いいえ、<ruby>一生懸命<rp>(</rp><rt>いっしょうけんめい</rt><rp>)</rp></ruby>　<ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>したのに、<ruby>優秀<rp>(</rp><rt>ゆうしゅう</rt><rp>)</rp></ruby>できなくて、<ruby>残念<rp>(</rp><rt>ざんねん</rt><rp>)</rp></ruby>です。",
+          "vi": "Không đâu, tôi đã luyện tập hết sức vậy mà vẫn không thể thắng được nên rất tiếc."
+        },
+        {
+          "speaker": "鈴木",
+          "jp_html": "また　<ruby>来年<rp>(</rp><rt>らいねん</rt><rp>)</rp></ruby>が　ありますよ。",
+          "vi": "Năm sau vẫn có nữa mà."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-46-hoi-thoai.html",
+    "lesson_number": 46,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>先週<rp>(</rp><rt>せんしゅう</rt><rp>)</rp></ruby>　<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>して　もらった　ばかりなのに、また･･･",
+        "vi": "Tuần trước mới được sửa thế mà lại nữa ..."
+      },
+      "image": "/images/minnamoi/bai46/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/61.mp3",
+      "dialogue": [
+        {
+          "speaker": "係員",
+          "jp_html": "はい、ガスサービスセンターで　ございます。",
+          "vi": "Vâng, trung tâm dịch vụ gas xin nghe."
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "あのう、ガスレンジの　<ruby>調子<rp>(</rp><rt>ちょうし</rt><rp>)</rp></ruby>が　おかしいんですが ･････。",
+          "vi": "À, tình trạng bếp gas của tôi có hơi lạ…"
+        },
+        {
+          "speaker": "係員",
+          "jp_html": "どんな　<ruby>具合<rp>(</rp><rt>ぐあい</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Cụ thể như thế nào ạ?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "<ruby>先週<rp>(</rp><rt>せんしゅう</rt><rp>)</rp></ruby>　<ruby>直<rp>(</rp><rt>なお</rt><rp>)</rp></ruby>して　もらった　ばかりなのに、また　<ruby>火<rp>(</rp><rt>ひ</rt><rp>)</rp></ruby>が　<ruby>消<rp>(</rp><rt>き</rt><rp>)</rp></ruby>えて　しまうんです。",
+          "vi": "Tuần trước mới được sửa thế mà lửa lại tắt mất rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "<ruby>危<rp>(</rp><rt>あぶ</rt><rp>)</rp></ruby>ないので、すぐ　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　くれませんか。",
+          "vi": "Rất là nguy hiểm nên có thể đến xem ngay được không vậy?"
+        },
+        {
+          "speaker": "係員",
+          "jp_html": "わかりました。5<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ごろには　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>けると　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
+          "vi": "Tôi hiểu rồi. Khoảng 5 giờ chúng tôi có thể đến được."
+        },
+        {
+          "speaker": null,
+          "jp_html": "ご<ruby>住所<rp>(</rp><rt>じゅうしょ</rt><rp>)</rp></ruby>と　お<ruby>名前<rp>(</rp><rt>なまえ</rt><rp>)</rp></ruby>を　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いします。",
+          "vi": "Xin cho tôi địa chỉ và tên."
+        },
+        {
+          "speaker": null,
+          "jp_html": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐",
+          "vi": null
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "もしもし、5<ruby>時<rp>(</rp><rt>じ</rt><rp>)</rp></ruby>ごろに　ガスレンジを　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>に　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　くれるはずなんですが、まだですか。",
+          "vi": "A lô, đáng lẽ khoảng 5 giờ là đến kiểm tra bếp ga mà vẫn chưa tới à?"
+        },
+        {
+          "speaker": "係員",
+          "jp_html": "<ruby>申<rp>(</rp><rt>もう</rt><rp>)</rp></ruby>し<ruby>訳<rp>(</rp><rt>わけ</rt><rp>)</rp></ruby>　ありません。どちら<ruby>様<rp>(</rp><rt>さま</rt><rp>)</rp></ruby>でしょうか。",
+          "vi": "Xin lỗi. Cho hỏi vị khách nào đấy ạ?"
+        },
+        {
+          "speaker": "タワポン",
+          "jp_html": "タワポンです。",
+          "vi": "Tôi là Thawapon."
+        },
+        {
+          "speaker": "係員",
+          "jp_html": "<ruby>少々<rp>(</rp><rt>しょうしょう</rt><rp>)</rp></ruby>　お<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ち　ください。<ruby>係<rp>(</rp><rt>かかり</rt><rp>)</rp></ruby><ruby>人<rp>(</rp><rt>いん</rt><rp>)</rp></ruby>に　<ruby>連絡<rp>(</rp><rt>れんらく</rt><rp>)</rp></ruby>しますから。",
+          "vi": "Xin vui lòng đợi trong chốc lát. Tôi sẽ liên lạc với người phụ trách đây."
+        },
+        {
+          "speaker": null,
+          "jp_html": "‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐",
+          "vi": null
+        },
+        {
+          "speaker": "係員",
+          "jp_html": "お<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>たせしました。<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>　そちらに　<ruby>向<rp>(</rp><rt>む</rt><rp>)</rp></ruby>かって　いるところです。",
+          "vi": "Xin lỗi đã để quý khách chờ lâu. Hiện giờ đang đến chỗ anh rồi."
+        },
+        {
+          "speaker": null,
+          "jp_html": "あと　10<ruby>分<rp>(</rp><rt>ぷん</rt><rp>)</rp></ruby>ほど　お<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>ち　ください。",
+          "vi": "Xin quý khách đợi khoảng 10 phút nữa."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-47-hoi-thoai.html",
+    "lesson_number": 47,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>婚約<rp>(</rp><rt>こんやく</rt><rp>)</rp></ruby>したそうです",
+        "vi": "Nghe nói đã đính hôn rồi"
+      },
+      "image": "/images/minnamoi/bai47/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/64.mp3",
+      "dialogue": [
+        {
+          "speaker": "渡辺",
+          "jp_html": "お<ruby>先<rp>(</rp><rt>さき</rt><rp>)</rp></ruby>に　<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>します。",
+          "vi": "Tôi xin phép về trước."
+        },
+        {
+          "speaker": "高橋",
+          "jp_html": "あっ、<ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さん、ちょっと　<ruby>待<rp>(</rp><rt>ま</rt><rp>)</rp></ruby>って。<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>も　<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>ります。",
+          "vi": "A, cô Watanabe, đợi tôi chút. Tôi cũng về."
+        },
+        {
+          "speaker": "渡辺",
+          "jp_html": "すみません。ちょっと　<ruby>急<rp>(</rp><rt>いそ</rt><rp>)</rp></ruby>ぎますから。",
+          "vi": "Xin lỗi, tôi đang vội."
+        },
+        {
+          "speaker": "高橋",
+          "jp_html": "<ruby>渡辺<rp>(</rp><rt>わたなべ</rt><rp>)</rp></ruby>さん、このごろ　<ruby>早<rp>(</rp><rt>はや</rt><rp>)</rp></ruby>く　<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>りますね。",
+          "vi": "Cô Watanabe, dạo này hay về sớm nhỉ."
+        },
+        {
+          "speaker": null,
+          "jp_html": "どうも　<ruby>恋人<rp>(</rp><rt>こいびと</rt><rp>)</rp></ruby>が　できたようですね。",
+          "vi": "Hình như cô ấy có người yêu rồi thì phải."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "あ、<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>らないですか。この<ruby>間<rp>(</rp><rt>あいだ</rt><rp>)</rp></ruby>　<ruby>婚約<rp>(</rp><rt>こんやく</rt><rp>)</rp></ruby>したそうですよ。",
+          "vi": "A, anh không biết sao. Nghe nói gần đây chị ấy mới đính hôn đấy,"
+        },
+        {
+          "speaker": "高橋",
+          "jp_html": "えっ、だれですか 、<ruby>相手<rp>(</rp><rt>あいて</rt><rp>)</rp></ruby>は。",
+          "vi": "Hả, đối tượng là ai vậy?"
+        },
+        {
+          "speaker": "林",
+          "jp_html": "ＩＭＣの　<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>さんですよ。",
+          "vi": "Anh Suzuki của IMC đấy."
+        },
+        {
+          "speaker": "高橋",
+          "jp_html": "えっ、<ruby>鈴木<rp>(</rp><rt>すずき</rt><rp>)</rp></ruby>さん？",
+          "vi": "Hả, Suzuki sao?"
+        },
+        {
+          "speaker": "林",
+          "jp_html": "ワットさんの　<ruby>結婚式<rp>(</rp><rt>けっこんしき</rt><rp>)</rp></ruby>で　<ruby>知<rp>(</rp><rt>し</rt><rp>)</rp></ruby>り<ruby>合<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>ったそうですよ。",
+          "vi": "Nghe nói họ đã quen nhau tại đám cưới của ông Watt."
+        },
+        {
+          "speaker": "高橋",
+          "jp_html": "そうですか。",
+          "vi": "Vậy à."
+        },
+        {
+          "speaker": "林",
+          "jp_html": "ところで、<ruby>高橋<rp>(</rp><rt>たかはし</rt><rp>)</rp></ruby>さんは？",
+          "vi": "Nhân tiện, còn anh Takahashi thì sao?"
+        },
+        {
+          "speaker": "高橋",
+          "jp_html": "<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>ですか。<ruby>僕<rp>(</rp><rt>ぼく</rt><rp>)</rp></ruby>は　<ruby>仕事<rp>(</rp><rt>しごと</rt><rp>)</rp></ruby>が　<ruby>恋人<rp>(</rp><rt>こいびと</rt><rp>)</rp></ruby>です。",
+          "vi": "Tôi ấy à. Tôi thì công việc là người yêu đấy."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-48-hoi-thoai.html",
+    "lesson_number": 48,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>ませて　いただけませんか",
+        "vi": "Có thể cho tôi nghỉ được không?"
+      },
+      "image": "/images/minnamoi/bai48/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/67.mp3",
+      "dialogue": [
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>、<ruby>今<rp>(</rp><rt>いま</rt><rp>)</rp></ruby>　お<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しいですか。",
+          "vi": "Tổ trường, bây giờ chị có bận không ạ?"
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "いいえ。どうぞ。",
+          "vi": "Không, Cậu nói đi."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ちょっと　お<ruby>願<rp>(</rp><rt>ねが</rt><rp>)</rp></ruby>いが　あるんですが･････。",
+          "vi": "Tôi có việc muốn nhờ chị"
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "Chuyện gì vậy?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "あのう、<ruby>来月<rp>(</rp><rt>らいげつ</rt><rp>)</rp></ruby>　<ruby>７日<rp>(</rp><rt>なのか</rt><rp>)</rp></ruby>から　<ruby>１０日<rp>(</rp><rt>とおか</rt><rp>)</rp></ruby>ほど　<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>みを　<ruby>取<rp>(</rp><rt>と</rt><rp>)</rp></ruby>らせて　いただけますか。",
+          "vi": "À này. Tháng sau từ ngày 7 cho tôi nghỉ 10 ngày được không?"
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "<ruby>１０日<rp>(</rp><rt>とおか</rt><rp>)</rp></ruby><ruby>間<rp>(</rp><rt>かん</rt><rp>)</rp></ruby>ですか。",
+          "vi": "10 ngày."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は　アメリカの　<ruby>友達<rp>(</rp><rt>ともだち</rt><rp>)</rp></ruby>が　<ruby>結婚<rp>(</rp><rt>けっこん</rt><rp>)</rp></ruby>するんです。",
+          "vi": "Thật ra là tháng sau bạn tôi ở Mỹ sẽ kết hôn."
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "そうですか。えーと、<ruby>来月<rp>(</rp><rt>らいげつ</rt><rp>)</rp></ruby>は　20<ruby>日<rp>(</rp><rt>にち</rt><rp>)</rp></ruby>に　<ruby>営業<rp>(</rp><rt>えいぎょう</rt><rp>)</rp></ruby><ruby>会議<rp>(</rp><rt>かいぎ</rt><rp>)</rp></ruby>が　ありますが、",
+          "vi": "Thế à, tháng sau có cuộc họp kinh doanh vào ngày 20."
+        },
+        {
+          "speaker": null,
+          "jp_html": "それまでに　<ruby>帰<rp>(</rp><rt>かえ</rt><rp>)</rp></ruby>れますね。",
+          "vi": "Cậu có thể về kịp lúc đó nhỉ."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "はい。",
+          "vi": "Vâng."
+        },
+        {
+          "speaker": "<ruby>中村<rp>(</rp><rt>なかむら</rt><rp>)</rp></ruby><ruby>課長<rp>(</rp><rt>かちょう</rt><rp>)</rp></ruby>",
+          "jp_html": "じゃ、かまいませんよ。<ruby>楽<rp>(</rp><rt>たの</rt><rp>)</rp></ruby>しんで　<ruby>来<rp>(</rp><rt>き</rt><rp>)</rp></ruby>て　ください。",
+          "vi": "Vậy thì không sao rồi. Cậu hãy đi chơi vui vẻ nhé."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ありがとう　ございます。",
+          "vi": "Xin cảm ơn chị."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-49-hoi-thoai.html",
+    "lesson_number": 49,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "よろしく　お<ruby>伝<rp>(</rp><rt>つた</rt><rp>)</rp></ruby>え　ください",
+        "vi": "Xin hãy chuyển lời giúp"
+      },
+      "image": "/images/minnamoi/bai49/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/70.mp3",
+      "dialogue": [
+        {
+          "speaker": "先生",
+          "jp_html": "はい、ひまわり<ruby>小学校<rp>(</rp><rt>しょうがっこう</rt><rp>)</rp></ruby>です。",
+          "vi": "Vâng, trường tiểu học Himawari xin nghe."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "おはよう　ございます。",
+          "vi": "Xin chào buổi sáng."
+        },
+        {
+          "speaker": null,
+          "jp_html": "５<ruby>年<rp>(</rp><rt>ねん</rt><rp>)</rp></ruby>2<ruby>組<rp>(</rp><rt>くみ</rt><rp>)</rp></ruby>の　ハンス・シュミットの　<ruby>母<rp>(</rp><rt>はは</rt><rp>)</rp></ruby>ですが、<ruby>伊藤<rp>(</rp><rt>いとう</rt><rp>)</rp></ruby><ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>は　いらっしゃいますか。",
+          "vi": "Tôi là mẹ của em Hans Schmidt học năm thứ 5 lớp 2, cho tôi hỏi cô Itou có ở đó không ạ?"
+        },
+        {
+          "speaker": "先生",
+          "jp_html": "まだなんですが･････。",
+          "vi": "Cô ấy vẫn chưa tới…"
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "では、<ruby>伊藤<rp>(</rp><rt>いとう</rt><rp>)</rp></ruby><ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に　<ruby>伝<rp>(</rp><rt>つた</rt><rp>)</rp></ruby>えて　いただきたいんですが･････。",
+          "vi": "Vậy thì tôi mong thầy chuyển lời giúp đến cô Itou…"
+        },
+        {
+          "speaker": "先生",
+          "jp_html": "はい、<ruby>何<rp>(</rp><rt>なん</rt><rp>)</rp></ruby>でしょうか。",
+          "vi": "Vâng, việc gì ạ?"
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "<ruby>実<rp>(</rp><rt>じつ</rt><rp>)</rp></ruby>は　ハンスが　ゆうべ　<ruby>熱<rp>(</rp><rt>ねつ</rt><rp>)</rp></ruby>を　<ruby>出<rp>(</rp><rt>だ</rt><rp>)</rp></ruby>しまして、けさも　まだ　<ruby>下<rp>(</rp><rt>さ</rt><rp>)</rp></ruby>がらないんです。",
+          "vi": "Thật ra là Hans đã bị sốt tối qua và sáng nay vẫn chưa hạ sốt."
+        },
+        {
+          "speaker": "先生",
+          "jp_html": "それは　いけませんね。",
+          "vi": "Như vậy thật là không tốt rồi."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "それで　きょうは　<ruby>学校<rp>(</rp><rt>がっこう</rt><rp>)</rp></ruby>を　<ruby>休<rp>(</rp><rt>やす</rt><rp>)</rp></ruby>ませますので、<ruby>先生<rp>(</rp><rt>せんせい</rt><rp>)</rp></ruby>に　よろしく　お<ruby>伝<rp>(</rp><rt>つた</rt><rp>)</rp></ruby>え　ください。",
+          "vi": "Vì vậy, tôi đã cho nó nghỉ học ngày hôm nay, nên nhờ thầy chuyển lời giúp."
+        },
+        {
+          "speaker": "先生",
+          "jp_html": "わかりました。どうぞ　お<ruby>大事<rp>(</rp><rt>だいじ</rt><rp>)</rp></ruby>に。",
+          "vi": "Tôi biết rồi. Mong cháu mau khỏi bệnh."
+        },
+        {
+          "speaker": "クララ",
+          "jp_html": "ありがとう　ございます。<ruby>失礼<rp>(</rp><rt>しつれい</rt><rp>)</rp></ruby>いたします。",
+          "vi": "Cám ơn. Xin chào thầy ạ."
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.vnjpclub.com/minna-no-nihongo/bai-50-hoi-thoai.html",
+    "lesson_number": 50,
+    "selector_used": "#tab3",
+    "ai_output": {
+      "lesson_title": {
+        "jp_html": "<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>から　<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>いたします",
+        "vi": "Tôi thật sự cảm ơn từ tận đáy lòng"
+      },
+      "image": "/images/minnamoi/bai50/kaiwa.jpg",
+      "audio": "/Audio/minnahonsatsu2/73.mp3",
+      "dialogue": [
+        {
+          "speaker": "司会者",
+          "jp_html": "<ruby>優勝<rp>(</rp><rt>ゆうしょう</rt><rp>)</rp></ruby>　おめでとう　ございます。",
+          "vi": "Xin chúc mừng chiến thắng."
+        },
+        {
+          "speaker": null,
+          "jp_html": "すばらしい　スピーチでした。",
+          "vi": "Qủa thật là một bài phát biểu tuyệt vời."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ありがとう　ございます。",
+          "vi": "Xin cảm ơn."
+        },
+        {
+          "speaker": "司会者",
+          "jp_html": "<ruby>緊張<rp>(</rp><rt>きんちょう</rt><rp>)</rp></ruby>なさいましたか。",
+          "vi": "Anh đã hồi hộp phải không?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "はい、とても　<ruby>緊張<rp>(</rp><rt>きんちょう</rt><rp>)</rp></ruby>いたしました。",
+          "vi": "Vâng, tôi đã rất hồi hộp."
+        },
+        {
+          "speaker": "司会者",
+          "jp_html": "<ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>は　<ruby>大変<rp>(</rp><rt>たいへん</rt><rp>)</rp></ruby>でしたか。",
+          "vi": "Luyện tập vất vả lắm phải không?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "ええ。<ruby>忙<rp>(</rp><rt>いそが</rt><rp>)</rp></ruby>しくて、なかなか　<ruby>練習<rp>(</rp><rt>れんしゅう</rt><rp>)</rp></ruby>の　<ruby>時間<rp>(</rp><rt>じかん</rt><rp>)</rp></ruby>が　ありませんでした。",
+          "vi": "Vâng. Vì bận rộn nên mãi không có thời gian luyện tập."
+        },
+        {
+          "speaker": "司会者",
+          "jp_html": "<ruby>賞金<rp>(</rp><rt>しょうきん</rt><rp>)</rp></ruby>は　<ruby>何<rp>(</rp><rt>なに</rt><rp>)</rp></ruby>に　お<ruby>使<rp>(</rp><rt>つか</rt><rp>)</rp></ruby>いに　なりますか。",
+          "vi": "Anh định sử dụng tiền thưởng như thế nào?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "そうですね。わたしは　<ruby>動物<rp>(</rp><rt>どうぶつ</rt><rp>)</rp></ruby>が　<ruby>好<rp>(</rp><rt>す</rt><rp>)</rp></ruby>きで、<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どもの　ときから　アフリカへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>くのが　<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>でした。",
+          "vi": "À. Tôi rất thích động vật và từ nhỏ ước mơ của tôi là được đến Châu Phi."
+        },
+        {
+          "speaker": "司会者",
+          "jp_html": "じゃ、アフリカへ　<ruby>行<rp>(</rp><rt>い</rt><rp>)</rp></ruby>かれますか。",
+          "vi": "Vậy là anh sẽ đến Châu Phi?"
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "はい。アフリカの　<ruby>自然<rp>(</rp><rt>しぜん</rt><rp>)</rp></ruby>の　<ruby>中<rp>(</rp><rt>なか</rt><rp>)</rp></ruby>で　きりんや　<ruby>象<rp>(</rp><rt>ぞう</rt><rp>)</rp></ruby>を　<ruby>見<rp>(</rp><rt>み</rt><rp>)</rp></ruby>たいと　<ruby>思<rp>(</rp><rt>おも</rt><rp>)</rp></ruby>います。",
+          "vi": "Vâng. Tôi muốn xem hươu cao cổ hay voi trong tự nhiên ở Châu Phi."
+        },
+        {
+          "speaker": "司会者",
+          "jp_html": "<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>どもの　ころの　<ruby>夢<rp>(</rp><rt>ゆめ</rt><rp>)</rp></ruby>が　かなうんですね。",
+          "vi": "Vậy là giấc mơ từ thuở nhỏ đã thành hiện thực rồi."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "はい。うれしいです。",
+          "vi": "Vâng. Rất vui sướng."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "<ruby>応援<rp>(</rp><rt>おうえん</rt><rp>)</rp></ruby>して　くださった　<ruby>皆様<rp>(</rp><rt>みなさま</rt><rp>)</rp></ruby>に　<ruby>心<rp>(</rp><rt>こころ</rt><rp>)</rp></ruby>から　<ruby>感謝<rp>(</rp><rt>かんしゃ</rt><rp>)</rp></ruby>いたします。",
+          "vi": "Thật tâm xin cảm ơn những người đã ủng hộ."
+        },
+        {
+          "speaker": "ミラー",
+          "jp_html": "どうも　ありがとうございました。",
+          "vi": "Cám ơn rất nhiều."
+        }
+      ]
+    }
+  }
+]
