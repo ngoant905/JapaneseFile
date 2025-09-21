@@ -1,0 +1,3 @@
+- https://raw.githubusercontent.com/ngoant905/JapaneseFile/main/mimikara_grammar_n2.json
+- https://raw.githubusercontent.com/ngoant905/JapaneseFile/main/mimikara_grammar_n3.json
+- https://raw.githubusercontent.com/ngoant905/JapaneseFile/main/minna_conversations.json
